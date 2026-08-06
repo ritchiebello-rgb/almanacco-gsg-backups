@@ -1,0 +1,57 @@
+name: Backup mensile database
+
+on:
+  schedule:
+    # 03:00 UTC il primo di ogni mese.
+    - cron: "0 3 1 * *"
+  # Permette anche di lanciarlo a mano da GitHub (tab "Actions" del repo),
+  # utile per un primo test senza aspettare il primo del mese.
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install
+
+      - name: Esporta i dati da Supabase
+        run: node backup.js
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+
+      - name: Commit ed eventuale push del backup
+        run: |
+          git config user.name "backup-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica ai dati rispetto all'ultimo backup, salto il commit."
+          else
+            git commit -m "Backup automatico $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Segnala eventuali tabelle saltate
+        # Il backup delle tabelle riuscite è già stato salvato dallo step
+        # precedente. Questo step fa fallire l'intero run (e quindi arriva
+        # una notifica email da GitHub) solo per rendere visibile il
+        # problema, non per bloccare il salvataggio dei dati.
+        run: |
+          node -e "
+            const r = require('./data/_riepilogo.json');
+            if (r.tabelle_saltate.length > 0) {
+              console.error('Tabelle saltate nel backup:', JSON.stringify(r.tabelle_saltate, null, 2));
+              process.exit(1);
+            }
+            console.log('Nessuna tabella saltata.');
+          "

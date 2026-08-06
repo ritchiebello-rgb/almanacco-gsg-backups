@@ -1,0 +1,12 @@
+{
+  "name": "almanacco-gsg-backups",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Backup automatico mensile dei dati di Almanacco GSG (github.com/ritchiebello-rgb/almanacco-gsg)",
+  "scripts": {
+    "backup": "node backup.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}

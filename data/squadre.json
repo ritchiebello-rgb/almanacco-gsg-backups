@@ -1,0 +1,352 @@
+[
+ {
+  "id": "d14fe197-81e5-4935-a49e-2826feee74a3",
+  "nome_squadra": "Alemario",
+  "note": null
+ },
+ {
+  "id": "74e4aeb6-85fa-4fd0-bc1b-52e27e3d7967",
+  "nome_squadra": "Bettyiava",
+  "note": null
+ },
+ {
+  "id": "6ab024d4-7408-4063-bcb7-a24897cec393",
+  "nome_squadra": "Carlo",
+  "note": null
+ },
+ {
+  "id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "nome_squadra": "Cavax",
+  "note": null
+ },
+ {
+  "id": "de645e6a-147b-4cc8-93ed-34be3240c5ea",
+  "nome_squadra": "Cristiana",
+  "note": null
+ },
+ {
+  "id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "nome_squadra": "Lorenzo",
+  "note": null
+ },
+ {
+  "id": "8fb689ce-6345-48e2-93ac-4cfb131e0efe",
+  "nome_squadra": "Paolofox",
+  "note": null
+ },
+ {
+  "id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "nome_squadra": "Sergio",
+  "note": null
+ },
+ {
+  "id": "90771bfa-72f7-4a14-abe1-f41c21e4d8a6",
+  "nome_squadra": "Alici",
+  "note": null
+ },
+ {
+  "id": "659077ba-65e0-425a-9c0d-4e645649f80b",
+  "nome_squadra": "Cibe",
+  "note": null
+ },
+ {
+  "id": "2b5be6eb-f0e1-4f08-b377-f2ecca82e234",
+  "nome_squadra": "Enricla",
+  "note": null
+ },
+ {
+  "id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "nome_squadra": "Enriketto",
+  "note": null
+ },
+ {
+  "id": "0fa25378-1a73-4bf2-a6b4-b28fa3f36187",
+  "nome_squadra": "Falchetto",
+  "note": null
+ },
+ {
+  "id": "9c10ef61-a8ee-4931-b383-f5726518061a",
+  "nome_squadra": "Falù",
+  "note": null
+ },
+ {
+  "id": "0418316e-0a78-4c89-9212-54f66820855e",
+  "nome_squadra": "FalùMart",
+  "note": null
+ },
+ {
+  "id": "32c3c6c6-8049-41e8-9fd4-4da6b47cdf85",
+  "nome_squadra": "Faolina",
+  "note": null
+ },
+ {
+  "id": "e28502a9-3d6a-4b86-9bbc-25a86a7e5baf",
+  "nome_squadra": "Fato",
+  "note": null
+ },
+ {
+  "id": "7260255f-52d9-455c-9a34-ed02523bc247",
+  "nome_squadra": "Fede Real",
+  "note": null
+ },
+ {
+  "id": "8fac89ff-de60-407e-a71c-e6a6ed24005f",
+  "nome_squadra": "Fede Real AnFe",
+  "note": null
+ },
+ {
+  "id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "nome_squadra": "Fede Real Fe",
+  "note": null
+ },
+ {
+  "id": "33da459b-a742-4c23-82d7-c76f2269a0a5",
+  "nome_squadra": "Fulcla",
+  "note": null
+ },
+ {
+  "id": "073be581-a6b4-44aa-aaa5-36251d942323",
+  "nome_squadra": "Guizzo",
+  "note": null
+ },
+ {
+  "id": "9c43f155-5751-4f2f-8819-ce06b072c91e",
+  "nome_squadra": "HLV",
+  "note": null
+ },
+ {
+  "id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "nome_squadra": "Iavaroby",
+  "note": null
+ },
+ {
+  "id": "bffc7a4a-31f7-4c42-adb5-0ebd1780ffac",
+  "nome_squadra": "Jubox",
+  "note": null
+ },
+ {
+  "id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "nome_squadra": "Lele",
+  "note": null
+ },
+ {
+  "id": "c4c4a387-d9c8-4d91-ad70-fbe5137d288a",
+  "nome_squadra": "Lornik",
+  "note": null
+ },
+ {
+  "id": "2828eb7e-87b0-4d6b-9ad4-8b2f5db58b1b",
+  "nome_squadra": "Maxelli",
+  "note": null
+ },
+ {
+  "id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "nome_squadra": "Paolo",
+  "note": null
+ },
+ {
+  "id": "b8b928e0-f429-4dc9-887b-3e84dc2881bf",
+  "nome_squadra": "Paolo Poli",
+  "note": null
+ },
+ {
+  "id": "152a2d17-b499-4cd7-bfef-92accd474536",
+  "nome_squadra": "Paolo&Carlo",
+  "note": null
+ },
+ {
+  "id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "nome_squadra": "Patese",
+  "note": null
+ },
+ {
+  "id": "ad7c138d-d394-40ca-a202-f8575cf43e86",
+  "nome_squadra": "Ricibe",
+  "note": null
+ },
+ {
+  "id": "8b00c09b-4116-48ab-8e95-2993f7deb5bd",
+  "nome_squadra": "Riserva",
+  "note": null
+ },
+ {
+  "id": "92918826-428c-4552-9cdc-b207aef57143",
+  "nome_squadra": "Ritchie",
+  "note": null
+ },
+ {
+  "id": "89587ead-2449-4061-b220-3506c042e515",
+  "nome_squadra": "Roxelli",
+  "note": null
+ },
+ {
+  "id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "nome_squadra": "Royale",
+  "note": null
+ },
+ {
+  "id": "50c128fe-3ce7-48a7-b0e8-fd022c60a43f",
+  "nome_squadra": "Seria",
+  "note": null
+ },
+ {
+  "id": "ecb46b9b-54eb-4b0b-889a-4bb0702b964a",
+  "nome_squadra": "Servax",
+  "note": null
+ },
+ {
+  "id": "ddd532e7-e930-4d78-800f-064e44781dc8",
+  "nome_squadra": "Squali",
+  "note": null
+ },
+ {
+  "id": "dd9531e8-2502-4c6c-b7dd-b843bcc0bf42",
+  "nome_squadra": "Tonale",
+  "note": null
+ },
+ {
+  "id": "814ea145-c2e1-4b7c-939d-c393e3a6cab6",
+  "nome_squadra": "Vittoria",
+  "note": null
+ },
+ {
+  "id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "nome_squadra": "Zeman",
+  "note": null
+ },
+ {
+  "id": "fd1dca25-fe08-4d8f-9256-1184d885ae39",
+  "nome_squadra": "Paolina",
+  "note": null
+ },
+ {
+  "id": "1854881e-1ce3-4963-bbab-6f09ec9a0887",
+  "nome_squadra": "Paolocri",
+  "note": null
+ },
+ {
+  "id": "132d77a7-56a6-4ed6-b25e-1db2fa7fbe57",
+  "nome_squadra": "Rissosi",
+  "note": null
+ },
+ {
+  "id": "f5a870e5-00c4-4a02-a34e-626726c2592e",
+  "nome_squadra": "Cavolone",
+  "note": null
+ },
+ {
+  "id": "616c0914-5feb-430a-bb91-f3c45207b626",
+  "nome_squadra": "Damiao",
+  "note": null
+ },
+ {
+  "id": "3d4d5cd9-569b-4b2c-a6ec-438e3b5531be",
+  "nome_squadra": "Kiavax",
+  "note": null
+ },
+ {
+  "id": "204bb498-24c3-4f04-a16b-0e488c441cc5",
+  "nome_squadra": "Mama Loca",
+  "note": null
+ },
+ {
+  "id": "e4115523-5f2d-4760-891c-69d845757f09",
+  "nome_squadra": "Orca",
+  "note": null
+ },
+ {
+  "id": "d0c07739-be7f-4196-997d-13a4d3a7df2b",
+  "nome_squadra": "Poeta",
+  "note": null
+ },
+ {
+  "id": "57f1f9ca-572f-4649-a17d-11afaa979564",
+  "nome_squadra": "Ardeiava",
+  "note": null
+ },
+ {
+  "id": "403f1f84-0e7f-49fc-9db6-0bdf533a2f5d",
+  "nome_squadra": "Cile",
+  "note": null
+ },
+ {
+  "id": "e5c0b14e-b44f-4df6-ac58-f561e2e0ce69",
+  "nome_squadra": "Crvena Zvezda",
+  "note": null
+ },
+ {
+  "id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "nome_squadra": "Danilo",
+  "note": null
+ },
+ {
+  "id": "22846b9b-0d55-40c8-80f3-11799617be66",
+  "nome_squadra": "Due in Analisi",
+  "note": null
+ },
+ {
+  "id": "25e9502e-ffaf-4914-8f27-344a8150fde7",
+  "nome_squadra": "Olaja",
+  "note": null
+ },
+ {
+  "id": "642d79e0-f5f2-4518-a46b-b785ad647aca",
+  "nome_squadra": "Primos Alga",
+  "note": null
+ },
+ {
+  "id": "047be912-b8f3-48c6-93ab-d4248140e68d",
+  "nome_squadra": "Terzo Anello",
+  "note": null
+ },
+ {
+  "id": "e2de588d-9e51-4cae-b3c2-a84e2c1b4ffa",
+  "nome_squadra": "Andreagorlani",
+  "note": null
+ },
+ {
+  "id": "266f1dbc-7c41-411b-8768-cb3907263456",
+  "nome_squadra": "Kiavavax",
+  "note": null
+ },
+ {
+  "id": "4fea087f-7fe7-4e8f-bd5e-854183a0e1a2",
+  "nome_squadra": "Paniko",
+  "note": null
+ },
+ {
+  "id": "51712979-61b9-48ba-bfc8-de24de7877c7",
+  "nome_squadra": "Paolo&Paolo Poli",
+  "note": null
+ },
+ {
+  "id": "59f35496-8bcb-43e1-9452-7d2aa728f351",
+  "nome_squadra": "Paris Saint Gennaro",
+  "note": null
+ },
+ {
+  "id": "4a1bed82-a6a9-4012-8ca0-e8f94744a0ae",
+  "nome_squadra": "Royal Alici",
+  "note": null
+ },
+ {
+  "id": "d2925bf3-acfa-41f6-b990-b91bc61430f6",
+  "nome_squadra": "Alici Assemble",
+  "note": null
+ },
+ {
+  "id": "42912b6f-bcea-4672-9a7f-8313c7907a5c",
+  "nome_squadra": "Criketo Mannaro",
+  "note": null
+ },
+ {
+  "id": "33773a21-6906-4afa-a38f-b0225d61f7c3",
+  "nome_squadra": "New Kiavax",
+  "note": null
+ },
+ {
+  "id": "ed83c187-b7f7-41d9-82ae-c3a63f5bc4d9",
+  "nome_squadra": "Paolina di G",
+  "note": null
+ }
+]

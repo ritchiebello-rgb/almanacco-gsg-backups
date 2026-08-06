@@ -1,0 +1,29 @@
+{
+ "data_backup": "2026-08-06T16:43:02.294Z",
+ "conteggi_righe": {
+  "stagioni": 35,
+  "squadre": 70,
+  "allenatori": 47,
+  "squadre_allenatori": 123,
+  "calciatori": 4611,
+  "tornei": 203,
+  "partite": 5928,
+  "statistiche_partite": 14438,
+  "rose": 42742,
+  "classifiche": 1280,
+  "editoriali": 0,
+  "editoriale_immagini": 0,
+  "storia_campionati": 0,
+  "storia_campionati_immagini": 0
+ },
+ "tabelle_saltate": [
+  {
+   "tabella": "tag",
+   "errore": "Errore leggendo \"tag\": Could not find the table 'public.tag' in the schema cache"
+  },
+  {
+   "tabella": "editoriale_tag",
+   "errore": "Errore leggendo \"editoriale_tag\": Could not find the table 'public.editoriale_tag' in the schema cache"
+  }
+ ]
+}
