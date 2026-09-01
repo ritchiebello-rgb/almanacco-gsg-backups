@@ -115502,5 +115502,13 @@
   "squadra_id": "59f35496-8bcb-43e1-9452-7d2aa728f351",
   "gol": 2,
   "assist": 0
+ },
+ {
+  "id": "9c5ec54b-e768-40c2-934d-329d0068dc25",
+  "partita_id": "72de423c-9a6d-4038-8eb1-cec522d59d67",
+  "calciatore_id": "7d9d997e-3d7e-4cb4-b53e-a5db5daf1c37",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 1,
+  "assist": 0
  }
 ]

@@ -118558,5 +118558,25 @@
   "punteggio_fantacalcio_casa": 81.05,
   "punteggio_fantacalcio_ospite": 84.91,
   "id_esterno": 5927
+ },
+ {
+  "id": "72de423c-9a6d-4038-8eb1-cec522d59d67",
+  "torneo_id": "23aa0965-bb1a-4b83-aed3-6dff72fe2451",
+  "fase": "Finale",
+  "giornata": null,
+  "squadra_casa_id": "b8b928e0-f429-4dc9-887b-3e84dc2881bf",
+  "squadra_ospite_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "punteggio_90_casa": 0,
+  "punteggio_90_ospite": 1,
+  "data_partita": null,
+  "is_ripetizione": false,
+  "note": null,
+  "punteggio_supplementari_casa": null,
+  "punteggio_supplementari_ospite": null,
+  "rigori_casa": null,
+  "rigori_ospite": null,
+  "punteggio_fantacalcio_casa": null,
+  "punteggio_fantacalcio_ospite": null,
+  "id_esterno": 5930
  }
 ]

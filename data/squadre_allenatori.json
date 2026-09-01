@@ -252,10 +252,6 @@
   "allenatore_id": "365baddf-e493-4893-bcc0-ebf6cd4a5b32"
  },
  {
-  "squadra_id": "ecb46b9b-54eb-4b0b-889a-4bb0702b964a",
-  "allenatore_id": "b66a555c-7913-47c2-81ed-680cb2deb85d"
- },
- {
   "squadra_id": "ddd532e7-e930-4d78-800f-064e44781dc8",
   "allenatore_id": "62cb619b-c07e-4c5c-8261-ccdae078093a"
  },
@@ -490,5 +486,9 @@
  {
   "squadra_id": "ed83c187-b7f7-41d9-82ae-c3a63f5bc4d9",
   "allenatore_id": "04093dea-1c85-4ee4-86b0-14482066e889"
+ },
+ {
+  "squadra_id": "ecb46b9b-54eb-4b0b-889a-4bb0702b964a",
+  "allenatore_id": "2ec8167c-1611-4fc4-949f-c517d50836bb"
  }
 ]

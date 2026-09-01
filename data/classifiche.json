@@ -2576,6 +2576,34 @@
   "torneo_id": "235eb29d-6e16-4b04-9cb7-55fca1b88aeb"
  },
  {
+  "squadra": "Enriketto",
+  "punti_fatti": 3,
+  "partite_giocate": 1,
+  "partite_vinte": 1,
+  "partite_pareggiate": 0,
+  "partite_perse": 0,
+  "gol_fatti": 1,
+  "gol_subiti": 0,
+  "differenza_reti": 1,
+  "punteggio_totale_fatto": null,
+  "punteggio_totale_subito": null,
+  "torneo_id": "23aa0965-bb1a-4b83-aed3-6dff72fe2451"
+ },
+ {
+  "squadra": "Paolo Poli",
+  "punti_fatti": 0,
+  "partite_giocate": 1,
+  "partite_vinte": 0,
+  "partite_pareggiate": 0,
+  "partite_perse": 1,
+  "gol_fatti": 0,
+  "gol_subiti": 1,
+  "differenza_reti": -1,
+  "punteggio_totale_fatto": null,
+  "punteggio_totale_subito": null,
+  "torneo_id": "23aa0965-bb1a-4b83-aed3-6dff72fe2451"
+ },
+ {
   "squadra": "Danilo",
   "punti_fatti": 14,
   "partite_giocate": 6,
@@ -14308,7 +14336,7 @@
   "torneo_id": "d090d9be-fa26-4a04-96c5-25c029c482e5"
  },
  {
-  "squadra": "Cibe",
+  "squadra": "Paolo",
   "punti_fatti": 0,
   "partite_giocate": 1,
   "partite_vinte": 0,
@@ -14322,7 +14350,7 @@
   "torneo_id": "d090d9be-fa26-4a04-96c5-25c029c482e5"
  },
  {
-  "squadra": "Paolo",
+  "squadra": "Cibe",
   "punti_fatti": 0,
   "partite_giocate": 1,
   "partite_vinte": 0,
@@ -15064,20 +15092,6 @@
   "torneo_id": "dc886f72-d0b3-41ce-a6ee-a5f492f1acdd"
  },
  {
-  "squadra": "Lele",
-  "punti_fatti": 1,
-  "partite_giocate": 2,
-  "partite_vinte": 0,
-  "partite_pareggiate": 1,
-  "partite_perse": 1,
-  "gol_fatti": 2,
-  "gol_subiti": 3,
-  "differenza_reti": -1,
-  "punteggio_totale_fatto": null,
-  "punteggio_totale_subito": null,
-  "torneo_id": "dc886f72-d0b3-41ce-a6ee-a5f492f1acdd"
- },
- {
   "squadra": "Enriketto",
   "punti_fatti": 1,
   "partite_giocate": 2,
@@ -15092,7 +15106,21 @@
   "torneo_id": "dc886f72-d0b3-41ce-a6ee-a5f492f1acdd"
  },
  {
-  "squadra": "Royale",
+  "squadra": "Lele",
+  "punti_fatti": 1,
+  "partite_giocate": 2,
+  "partite_vinte": 0,
+  "partite_pareggiate": 1,
+  "partite_perse": 1,
+  "gol_fatti": 2,
+  "gol_subiti": 3,
+  "differenza_reti": -1,
+  "punteggio_totale_fatto": null,
+  "punteggio_totale_subito": null,
+  "torneo_id": "dc886f72-d0b3-41ce-a6ee-a5f492f1acdd"
+ },
+ {
+  "squadra": "Paolo",
   "punti_fatti": 1,
   "partite_giocate": 2,
   "partite_vinte": 0,
@@ -15106,7 +15134,7 @@
   "torneo_id": "dc886f72-d0b3-41ce-a6ee-a5f492f1acdd"
  },
  {
-  "squadra": "Paolo",
+  "squadra": "Royale",
   "punti_fatti": 1,
   "partite_giocate": 2,
   "partite_vinte": 0,
@@ -16884,7 +16912,7 @@
   "torneo_id": "f3bc05a5-5cb0-432c-aab9-2caf4a5b48e9"
  },
  {
-  "squadra": "Zeman",
+  "squadra": "Squali",
   "punti_fatti": 0,
   "partite_giocate": 1,
   "partite_vinte": 0,
@@ -16898,7 +16926,7 @@
   "torneo_id": "f3bc05a5-5cb0-432c-aab9-2caf4a5b48e9"
  },
  {
-  "squadra": "Squali",
+  "squadra": "Zeman",
   "punti_fatti": 0,
   "partite_giocate": 1,
   "partite_vinte": 0,

@@ -6,5 +6,57 @@
  {
   "id": "8fae16b6-b6ee-468c-9f60-9f50e8001e86",
   "nome": "Serie B"
+ },
+ {
+  "id": "a8742ec6-0f41-4d70-8698-65bf0e230ea2",
+  "nome": "Asta"
+ },
+ {
+  "id": "fd400e52-88f8-41ec-a0d2-6555cfd43050",
+  "nome": "Regolamento"
+ },
+ {
+  "id": "0923fbf6-c774-4e26-b23c-d7de593f5503",
+  "nome": "Allenatori"
+ },
+ {
+  "id": "7cfcaf0f-95f7-40e1-b278-888e07515b79",
+  "nome": "Storia Campionati"
+ },
+ {
+  "id": "a2c33691-dd65-4cef-925e-77a5f0c0e210",
+  "nome": "I Protagonisti"
+ },
+ {
+  "id": "909934ea-12a3-4944-99d8-ba5c2c4c48c8",
+  "nome": "Calciatori"
+ },
+ {
+  "id": "7a0fcd0a-f776-4b2f-b93c-8a3d52a565af",
+  "nome": "Squadre"
+ },
+ {
+  "id": "ec77333e-e47c-44ff-b823-44babd0a1267",
+  "nome": "Coppa Italia"
+ },
+ {
+  "id": "0e319187-9c2e-4017-8df2-326e46aff4ba",
+  "nome": "Champions League"
+ },
+ {
+  "id": "1fba7a93-af39-4848-9fea-61a9a409b1c1",
+  "nome": "Mondiali"
+ },
+ {
+  "id": "11cada1e-000f-4215-ac62-5c12957d2552",
+  "nome": "Europei"
+ },
+ {
+  "id": "118e57e8-26c9-4aca-9d49-be3b71efe138",
+  "nome": "Supercoppa"
+ },
+ {
+  "id": "bed4722e-e7a9-43f1-bac2-d868d582f1a4",
+  "nome": "Cucchiaio di Legno"
  }
 ]

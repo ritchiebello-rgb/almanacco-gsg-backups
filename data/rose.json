@@ -308025,6 +308025,15 @@
   "assist": 0
  },
  {
+  "id": "d55ca977-a9f5-491e-886d-5324b2905e8b",
+  "torneo_id": "23aa0965-bb1a-4b83-aed3-6dff72fe2451",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "7d9d997e-3d7e-4cb4-b53e-a5db5daf1c37",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
   "id": "896af7ec-cd06-4fe1-9295-7297c0b5709a",
   "torneo_id": "458aa131-3d1e-4fc3-af7e-cf605a915304",
   "squadra_id": "90771bfa-72f7-4a14-abe1-f41c21e4d8a6",
