@@ -52713,276 +52713,6 @@
   "assist": 0
  },
  {
-  "id": "11c7c8e6-e247-4077-8552-7d85e71b22bd",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "36fa5542-f021-4893-9198-58a2f6105a76",
-  "ruolo": "A",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "4860eb6a-4b72-4220-af1e-98aa1a8e5da2",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "1aa9fbb1-2e31-46bc-8e95-4e6347fa83a1",
-  "ruolo": "A",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "7103d76d-bf9b-47c4-b130-9849de947d1c",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "08510093-eaae-4ac2-9ae3-645122c4a067",
-  "ruolo": "A",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "892c6d80-77d3-4b8a-881d-0729b94ceeee",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "1b84f991-d0e6-4100-bc54-cf7307167d24",
-  "ruolo": "A",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "4f7b3336-dc40-4782-9669-e1f9e45b7fbc",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "fda9b52c-b409-45fe-8807-309b21903dbb",
-  "ruolo": "A",
-  "presenze": 5,
-  "assist": 0
- },
- {
-  "id": "2765743b-9197-4305-a68a-7d5fed9c89b4",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "3c743c3e-81b6-4091-a4a7-e9628b7dd306",
-  "ruolo": "A",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "b03b540f-5331-42b6-88a6-7136b96deb4f",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "73df7d04-d4e0-48c1-b0d2-ef9de3750c59",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "6afa1d9d-1af1-4a0f-bbf5-1db59278463e",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "19d8d53b-db1c-4b5c-ac39-613741fe1a39",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "71cc4084-2c6a-4de1-9f40-4cbc3ed32e44",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "269963fb-c335-4d1a-973a-5c966b007104",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "2e4a36f8-b684-405a-a8c4-35eb6f341e6c",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "41f50a37-cbc7-4e87-979c-db3ad27e0e4f",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "58a57799-304a-4e65-8111-200573eecc69",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "0b9dfc17-7933-427a-a87b-e4b9a241481e",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "8322463f-61a2-4ccf-9ba2-70814333141b",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "d820118b-ba24-4d51-9c5a-5957eb3a7837",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "b8a9a95d-089d-42ab-9139-1b914a705e67",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "2e6818a8-37be-448e-8f17-e6f21bfc71e9",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "349f9a6d-ac48-4723-ac3c-48fa7b174742",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "c0527457-a172-4a64-8db4-7a9238c7aa5f",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "8074bbdf-0fca-4acf-b5b2-fca1e6a94f7c",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "965d620a-ea1f-4c57-899d-d14fad61e907",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "9f3938bd-3e63-4b51-a20b-70c2b5813f10",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "90c9a398-6ddc-4bb8-ae43-200b9aa3ffc4",
-  "ruolo": "C",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "c3f17160-7052-418f-93ca-d72b8a0b3f6a",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "76817eb9-5a09-448b-82e0-a69b9bb5b5bc",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "6102c8db-1476-45df-b2df-8d0a1195792c",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "381885a8-880c-476b-a2bf-1ab51939c3f5",
-  "ruolo": "D",
-  "presenze": 5,
-  "assist": 0
- },
- {
-  "id": "173b4b89-872d-448a-8052-a7941b627a49",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "c9a7d4d4-83fb-42fe-a621-351495e8a9be",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "12f33f5b-b1db-47ac-af90-d5928a5bc4bd",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "579f4a3a-33a0-401b-9660-27dfc66999c6",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "d2d2c62f-63ef-420e-98cd-a165a99d77d5",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "0d479a5c-d195-448c-81fe-c793ae9f7bf0",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "75d0a318-8b34-4f2c-bf4f-1ae03ec454b8",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "b2095ab3-4f25-42ba-987c-33b5a02b4303",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "0fac476e-3bc6-45b2-85a4-543186592270",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "b8f3e118-b330-4a52-9f55-a589943fd1d0",
-  "ruolo": "D",
-  "presenze": 9,
-  "assist": 0
- },
- {
-  "id": "f79f064d-c5d2-4b73-a638-db4a5f65cfec",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "5d8b3498-45eb-478e-9506-3324aebad517",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "2ad4233f-759b-4874-9682-051c49fba3dd",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "e36b8765-94f0-40c9-b00a-bc1de653368d",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "e08bea49-bc38-4ff4-9442-0d680c4fe9ee",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "d360de3b-ca35-47ea-a5d1-53090ff15a4a",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "47872216-50c3-4786-8083-5c7653baf7a9",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "9164f94c-9361-4376-8ec2-65f828349828",
-  "ruolo": "D",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "5a756fe1-e8f9-405c-b124-4d329f37d790",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "4635787e-2bbc-44dc-965c-a2682a30aecf",
-  "ruolo": "P",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "f4d862cc-0c36-4831-bb1f-188ceccc42b6",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "703d306b-bf6b-4a89-a4c8-55afa0e6549f",
-  "ruolo": "P",
-  "presenze": 14,
-  "assist": 0
- },
- {
-  "id": "a6a874aa-803e-4a9f-a343-6bc15efeb324",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "43094612-6aa8-4266-ab9f-a05f2aeb99e8",
-  "ruolo": "P",
-  "presenze": 14,
-  "assist": 0
- },
- {
   "id": "bbffae0f-bc3b-4c32-895b-2264a6a6db38",
   "torneo_id": "dcd57317-4712-4141-9a39-cef9f68b84de",
   "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
@@ -158157,33 +157887,6 @@
   "assist": 0
  },
  {
-  "id": "6704d4da-2d19-4a0c-abf8-92185aaab57b",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "f00bfe2a-c640-42e7-af27-15a9c0dd02ac",
-  "ruolo": "A",
-  "presenze": 5,
-  "assist": 0
- },
- {
-  "id": "ffcd2014-ce86-4774-8092-3786aab56af7",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "8be58246-7078-4c35-b37b-fabb65947e1f",
-  "ruolo": "A",
-  "presenze": 9,
-  "assist": 0
- },
- {
-  "id": "8eb39fb3-2dfe-4118-9ac9-e01944dab84f",
-  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "d2b9484f-e10e-4e65-bf4f-dad046b32cd9",
-  "ruolo": "A",
-  "presenze": 9,
-  "assist": 0
- },
- {
   "id": "6034d4e8-da9d-463e-9a82-255eea42abe3",
   "torneo_id": "dcd57317-4712-4141-9a39-cef9f68b84de",
   "squadra_id": "c4c4a387-d9c8-4d91-ad70-fbe5137d288a",
@@ -239193,276 +238896,6 @@
   "assist": 0
  },
  {
-  "id": "1048ed99-e255-463f-8acd-c4022ff56dd0",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "36fa5542-f021-4893-9198-58a2f6105a76",
-  "ruolo": "A",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "a86e7712-5569-439d-a043-143668f98ef2",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "1aa9fbb1-2e31-46bc-8e95-4e6347fa83a1",
-  "ruolo": "A",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "75cfc9f2-c0d2-478e-9b99-1d620018cc83",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "08510093-eaae-4ac2-9ae3-645122c4a067",
-  "ruolo": "A",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "27e5e36c-629b-4bbf-bac0-2c7a95ab8a5b",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "8be58246-7078-4c35-b37b-fabb65947e1f",
-  "ruolo": "A",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "19146b7a-f5cd-4c36-8999-d3bbe981f87a",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "d2b9484f-e10e-4e65-bf4f-dad046b32cd9",
-  "ruolo": "A",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "a7ba57f9-2bf3-4630-b720-e70bb1e48244",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "1b84f991-d0e6-4100-bc54-cf7307167d24",
-  "ruolo": "A",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "30f1ea6b-007c-4f20-ab96-8830d2950e12",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "3c743c3e-81b6-4091-a4a7-e9628b7dd306",
-  "ruolo": "A",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "c0dce2e3-80b9-4ab6-91b9-edc31c08decc",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "73df7d04-d4e0-48c1-b0d2-ef9de3750c59",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "ffdc6f23-1ee0-4f6b-b192-bd7690af41f6",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "19d8d53b-db1c-4b5c-ac39-613741fe1a39",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "caa7a60a-b429-4e62-9e86-21a13472478c",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "269963fb-c335-4d1a-973a-5c966b007104",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "11df2794-2499-478f-a773-c95fae5e5297",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "41f50a37-cbc7-4e87-979c-db3ad27e0e4f",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "870443c5-0b76-4759-bea8-a1d02131dfdd",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "0b9dfc17-7933-427a-a87b-e4b9a241481e",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "1846c64f-f380-46a7-88dc-43ba6f5216a9",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "d820118b-ba24-4d51-9c5a-5957eb3a7837",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "d568d21f-b55c-4388-ba45-9bbe67e2cacb",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "2e6818a8-37be-448e-8f17-e6f21bfc71e9",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "204d2778-5161-435d-ab81-4703b2243a6c",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "c0527457-a172-4a64-8db4-7a9238c7aa5f",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "98c4bb9b-c283-4528-8333-b04ef5c160c2",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "965d620a-ea1f-4c57-899d-d14fad61e907",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "689c79f9-1e66-488d-b07f-8d710278d50e",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "90c9a398-6ddc-4bb8-ae43-200b9aa3ffc4",
-  "ruolo": "C",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "316a44ad-6abf-43ea-a8ea-151327fdd2f8",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "76817eb9-5a09-448b-82e0-a69b9bb5b5bc",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "3c6c33f2-e0e0-419b-bebb-4cdd90290739",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "c9a7d4d4-83fb-42fe-a621-351495e8a9be",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "d124b1d6-e411-4736-a101-17c0c97daeb7",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "579f4a3a-33a0-401b-9660-27dfc66999c6",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "dd883e4a-7094-4ee2-85f3-038cb2216271",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "0d479a5c-d195-448c-81fe-c793ae9f7bf0",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "79a0eb4d-871b-4fe0-98bd-dfc34ef106f9",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "b2095ab3-4f25-42ba-987c-33b5a02b4303",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "2fe294c6-94a8-4a89-b525-cb608395e5f3",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "b8f3e118-b330-4a52-9f55-a589943fd1d0",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "2746322c-9ddb-4e89-8fef-3584011d467d",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "5d8b3498-45eb-478e-9506-3324aebad517",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "e283dba4-4294-4747-add7-1f81ffaab871",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "e36b8765-94f0-40c9-b00a-bc1de653368d",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "a683776b-de77-42ad-983d-91dbd0c92af9",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "d360de3b-ca35-47ea-a5d1-53090ff15a4a",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "96562ade-f0d5-41e7-817a-2bdb46012ad1",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "9164f94c-9361-4376-8ec2-65f828349828",
-  "ruolo": "D",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "0bde135c-a251-48cd-9157-38b4d64c0e95",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "4635787e-2bbc-44dc-965c-a2682a30aecf",
-  "ruolo": "P",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "703ec216-57ea-4034-954b-612b5a996077",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "703d306b-bf6b-4a89-a4c8-55afa0e6549f",
-  "ruolo": "P",
-  "presenze": 1,
-  "assist": 0
- },
- {
-  "id": "66183a5e-0830-457f-b0cd-8fd1e09dca67",
-  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
-  "squadra_id": "073be581-a6b4-44aa-aaa5-36251d942323",
-  "calciatore_id": "43094612-6aa8-4266-ab9f-a05f2aeb99e8",
-  "ruolo": "P",
-  "presenze": 1,
-  "assist": 0
- },
- {
   "id": "8500ab5c-f4ca-4489-994b-7e3ebb0de25b",
   "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
   "squadra_id": "0fa25378-1a73-4bf2-a6b4-b28fa3f36187",
@@ -308032,6 +307465,4083 @@
   "ruolo": "C",
   "presenze": 1,
   "assist": 0
+ },
+ {
+  "id": "d4204211-301e-4498-8858-2661ba14a71f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "39a718e9-0cc3-452d-a764-df62620e4c90",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "fe220f43-6f76-4699-b8cb-80408cd3d1d9",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "867f42f5-f36a-463a-8633-1200fcd06134",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "4a67104d-d3eb-47b6-a443-d7951a86b273",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "a113122a-88ad-43b4-995e-1dc33bf78c66",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "a30bf9fc-e0cd-4af1-aa03-f5ff5b361bb0",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "d5809953-b7d7-4ae6-894b-30f8b3b85367",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "4e24e305-419b-4071-9b1d-1811786614ed",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "2f469ef8-6536-419a-9107-5fbabab8b8fb",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "2b0abcbb-4754-434d-ba7c-ff898bd102ce",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "7161df01-248b-4a5b-ab8d-5df77c8629d3",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "2f853f7e-e1ac-4226-b7a7-670285acb8ed",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "465bac13-bb61-4ce4-b136-55a6b97f25e0",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "67aa8952-9721-4250-b93c-35bdd2f4e4a9",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "621a8a88-0ed5-4cee-9770-054687ed7be3",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "f54c8e07-dee8-4260-837e-13b23337f6d3",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "5c616ea0-1347-4779-af4c-40298b12cf00",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "1bfb1e23-8f0a-4b17-961b-ff2a167230f2",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "80f0124e-d14a-4992-8003-faa889b8a0c3",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "bb63fb8b-ae59-4f03-9410-55d10a5a5470",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "53712137-68c7-4c5d-a6de-a28f8460c709",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "d407640b-8c69-44e7-9321-e92fbf2d0207",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "92d169ca-d559-482a-879e-d42abbf768e2",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "5a28d231-0235-44d4-afb1-f63897f0bd9c",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "434b655a-c608-4613-8ae8-c8af031dc3a3",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "8f9f6f8e-fc2a-4a90-9418-abc31d11db45",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "46120fe4-c12e-4fd6-bf54-87a9c618d32e",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "889db19d-ac0b-408b-9868-b97ce3be23f8",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "afbf8244-26f6-4b9d-8344-af3f7bb23df7",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "d479e702-6e3e-4e7c-b84e-a56ea1ebdcce",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "0ec8a25c-5494-45f1-a36c-ec65862d2555",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "2909a8c4-c904-4d28-b15b-356086548ae7",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "9d0da99b-1943-45da-8fc3-578885d7828d",
+  "ruolo": "P",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "24e53d46-c9ff-42ec-9045-80fa0ecf58c6",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "0097006b-b888-430c-a4c1-6f74c4293b3f",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "4cf33657-846c-40f2-a0a3-09b7d47f26c2",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "6b8f5313-cf77-4882-8d6d-6bacd357961d",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "bb43118a-61ce-4189-bb6e-afdae54ce67e",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "56908e07-7430-454e-a65e-104659b6a761",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "6e876976-6bdc-4125-a90a-04b12499f407",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "400860ad-5786-4f33-bfbb-d85795438d85",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "810b1b72-a651-4567-b147-48d1a5503c4c",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "45770361-950e-478e-99e1-f98dcf759863",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "a5ec8409-aca0-4fdb-a7ff-bc1efd7ba868",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "f072522f-045a-4e4a-9d19-3d23ac8f51b1",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "7bb467bd-9b6f-4f40-98b8-522ceb75e22b",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "57b0cb30-e3c5-4205-a6e9-b097423df62c",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "b7a0bfc1-6015-451c-b871-d93bd10f2ba6",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "2e9756b3-cef4-447b-aff9-43993c88263d",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "ad4b4e17-0b48-43bf-9a8e-fc2ade0dfd88",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "10941d1b-0629-441b-a16f-ee9a7662a894",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "d155c559-c038-41bb-9e3e-c435dd66d6b9",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "5386dab4-37f8-40df-a7e0-8e41f7c70e83",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "870624f9-edd8-485c-8e88-a9ab1fa194cf",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "3581cf90-d198-45c8-b1fc-48d64c508171",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "cf5657dc-aa37-4251-a10a-f7354a67afed",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "3920da29-b0f2-4405-9ab5-b32e675218c8",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "988a106d-8297-441e-9505-66608299eb73",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "c2411ad9-23b7-43c8-a0d7-a245cdd8a478",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "6d0eb343-11ab-49d1-bfe5-44470584ab5c",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "f16682bc-0cd5-4e0c-9d04-67bb57749759",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "8ef4e112-fe9a-4090-bb8f-4b1aa3ed20d2",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "d73b0cfa-3f30-4a14-9ff8-dfb880422d97",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "e75092d4-e318-418d-b048-9f21478b2afc",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "e1cde0d7-0ae5-461f-9324-db8ead5f098a",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "8b0800ce-15e2-49d0-aa68-6a0453a5a324",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "642f28da-d4cf-4a21-816e-2c42c3990aeb",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "43cd61eb-04ab-4e40-bcb0-7011ef39099c",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "72a07f93-d304-4c1f-abe6-7cc4b1327afe",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "055ec3c8-e1f8-4af9-bc9f-8015b7222638",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "3dea376b-4843-4dce-8b71-917c454da355",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "548066fd-0ded-4d63-a9f0-11dad819384e",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "825ed1b9-4f38-496b-9525-4d05ae7c8e12",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "4b15b87d-3a69-4aa6-a96d-b66d17c933e3",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "50cb8131-b984-4da0-b2a0-69f9ddff65f4",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "e97ab3c1-e4f9-494c-91c0-dd2e507a86ca",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "0c173fdd-9423-4af1-afa3-938f273a3cf1",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "7c87a848-260c-4d82-a4cf-501c2b43f284",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "c4403e9f-be96-43dc-9cdb-27d3bd12cf85",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "ed769f90-b0f1-41bd-886c-8e5e3ea6281c",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "16082944-851d-442e-a218-e5f409c63c36",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "05d4590d-53fe-4d93-95ac-6c9b1b3be6f1",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "6d41ca55-4065-49dd-a01c-d7f30351999d",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "9837d7d1-44a0-491a-8ba2-ef66a17f433d",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "58b83bce-b6ee-4c2e-8f44-8cfb51d16cd8",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "07b9a36c-f371-462f-8ec6-212a422de6e2",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "19788618-3229-4257-9edc-60c1410c6ccc",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "451298cf-81c2-4f3f-b435-0838cda58925",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "cdc92380-ff06-4251-bc5d-daaf19a581f6",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "4c2f0fae-4385-453d-bc39-fab30f94e3fd",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "a7377f92-4cf7-44a2-aa6e-7003de423d90",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "093312bf-ef16-4e34-8582-eb25356801e1",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "04cdc6f4-355e-4280-8647-7a9da73fa670",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "1f22a9e0-397f-4439-a5a9-4bb0f3164e16",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "86fd8daf-1052-4536-a6f3-a607f13e4e69",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "a61110da-eb1c-4d05-9ad9-837ba702d008",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "30b87af1-c298-45a8-8ff6-f267c16def9f",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "866742b0-d99d-4e06-bca0-5815095af2b4",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "d03897a5-999d-479a-acc7-05ba38fa1e1d",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "884afbd2-76b3-437c-9f50-002cb1b17cdd",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "7ac6fc1f-e650-42ea-9869-c95570251fc1",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "64d70cbc-d9b0-4735-a460-2b6a3aa5813d",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "fe21c4b6-8ea1-4d65-a01a-c03949f3c9fc",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "d47367fb-947e-443e-876c-f5338730a319",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "7734beac-774f-4dad-a217-8856b6b99b42",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "de9e3fd4-7fc3-4b2b-a0cf-672adcb59aa8",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "c47d7089-e79a-4bab-9c8f-fc8a7cb90f3e",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "908c5f3a-1499-49c5-9f22-d3b50f73854c",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "b044dfa7-337c-41f2-bcc9-59aaeb61eed8",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "ed094789-bb64-442c-8131-a4e0add86ade",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "c4eb61d7-fccc-4ef3-bb23-874130cde603",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "2f96901a-5965-44ec-9f73-f5afa88838ef",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "2dd22c48-6831-4e1e-b5fa-1de45940d71a",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "1867bc7f-9e04-4740-a94c-fc6ee378c541",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "8c5c30d7-870e-4a35-a231-0d7eec2d3d8d",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "30ddfdff-5df0-4d57-b3e9-21cb89166419",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "d815e1dc-c937-4b25-9b4b-968ca8d8399a",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "ff1cbe0b-2211-423f-8d7b-f1acbe625b71",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "28637dfd-676a-40f1-97f3-3a5d131adee4",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "17267441-a0e5-4298-af98-eba329edc65f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "02b900e4-3656-4bfb-99a3-fca9be87d204",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "6c5898c8-6309-40b2-ad71-e83bad0e2b6f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "caafa92d-de40-4b20-bc2e-daf715991b80",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "29b001b1-a8fc-4f7c-80b5-cfd4287d9db3",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "a139c780-1392-4937-b0ff-257d14a9cb02",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "2510677a-36f6-48a9-bd98-77c06d6d53df",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "8d99c255-6eed-483a-92ee-998b33fb739d",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "1c451667-dc9c-464e-bdd4-724be0a1c062",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "c9971745-bf98-49de-b558-c07dfdc12c50",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "9010dc25-f033-42a4-ae1e-9bec56cab8f9",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "967ac20e-2111-419c-8cb9-0b4a6f3b66d4",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "9416fe63-28fa-484d-ad69-00f6fbb98c84",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "7e87315c-db00-4a3e-bbda-cef5574a7ceb",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "81ac0579-d3f3-40ea-be1d-cf6994b65210",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "7c99d707-44cd-4642-bf5a-9bc1b9bd34d0",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "6af8ea9e-62fe-43bc-8e50-20c8397bf674",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "da33cfbc-acb2-47cc-a1d2-b59b27ec99af",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "a4766078-b03f-45e0-91b8-5120aef9cbec",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "0db641b5-5a75-4a3d-aa51-75ad8c308e40",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "4b6f5e44-b9e6-492f-a7bd-664dbf0eb1aa",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "2a95a3a8-ce04-4764-9764-d7652f9c08bc",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "4108f307-5df8-4988-b4c7-ef6bb70d7d03",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "db59e77d-ef19-46b6-bdee-6fbb845092cc",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "c70d5aff-a7cc-4ea6-a377-dde50e1b5b72",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "e6eaf24c-f9a6-431a-b2fd-c54abc56b534",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "54720b3c-1dfd-4b41-b274-05ddea26e08d",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "dcfa197c-6fbb-4fa9-9abd-431464cc5311",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "75b30421-a7cb-464f-afc5-ca0c45d8c2e2",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "b35ee390-1bde-44ca-910a-e4065679807f",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "ae51c644-3fd4-4a61-90d1-ffad60974aa7",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "e3f11a29-4888-4470-8af2-f430b8c48ffa",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "0642aaac-8981-4165-92a6-e760d435b81f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "b0ff281f-c63c-47bb-a422-60b3c2a4d134",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "f3cf1aca-dfb5-4acc-ae8c-97dd81cbf2ea",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "5b3e451b-d949-4e0a-bb4b-0613df8b0b71",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "1db25447-2242-47ca-b02c-bf0703ed989b",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "6b09c362-d24a-4d01-b18d-7bdc93b096fa",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "e58c9dd2-b1db-42b5-9ff7-881b551c311f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "8e2ce399-769c-44dc-99f4-fd3a66c633ea",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "9134a33f-5fad-469a-8d36-f5bfed78f1c0",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "bf81a9cb-d99e-49d8-b970-d0fda97a90a5",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "1c4dc186-88d5-4a6e-819e-fc141770f754",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "8f3183b2-4544-4f76-82f6-6ac831a5bced",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "a28be23d-8268-479d-9571-5f926b860d92",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "9064646f-72ec-418f-8f6c-49786173050f",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "aa73fdf3-2f4f-4ac6-a46f-c1897c58810f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "93088273-574e-4742-b693-999b46f50836",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "9a9688fe-c32e-4fb2-8fcb-e8fbf0e570f7",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "e8a84d55-3018-428f-9a31-ec1574d78bbd",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "6f6fa94f-2907-46a0-8b86-d3172018aeb9",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "540e8389-a4e5-4ea7-9675-6fcdfd66059d",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "d27ec23e-b703-4048-b2f2-de4e3f6814db",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "af95be93-7f58-4ca6-b3ce-5cb223d0d449",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "c3719bf6-148b-4b39-bd1e-9bf5e5e71d7d",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "f5f1a183-ceca-4393-8464-5d59bce2ad06",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "55fc3b61-9fbb-4541-8b88-c4033cf416a0",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "6429fbc7-1277-4090-a97b-abfddd59831d",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "704df2df-c435-4f56-a12b-5e089895271b",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "79a6136e-9e38-45f1-bea1-3adf34bab3d9",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "34c7ed86-61e3-4315-80e3-7044c2469af7",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "94f694f6-f645-48b4-af61-4fb42b10a552",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "18cf904e-64aa-4dfb-ac55-95f36d6d8f80",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "44eeb511-e13b-482c-bddc-254471c38ca9",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "059aebef-965c-411d-8ee5-1e3f3e6fd729",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "4fb637e5-e79e-4fcc-a801-4d9b7125289d",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "19f70574-d314-484f-ad17-b9f7a0055581",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "46f66aaf-a4af-4e55-85a0-92140a57db89",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "7530aa69-1f38-4fb5-a76b-0eebe8cd5f6b",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "551c93eb-8997-4dfe-a3b8-0232ff8a5de9",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "e373fc07-fd3d-4938-b7cb-9b2d6fda63e7",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "70075035-e837-43da-856f-9db2437d64ea",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "2b8af70b-dee1-4aac-b60e-b3cffaadda7a",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "cd5c81c5-bec8-44a0-b5a6-bcd2c9a9a570",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "08e9ebcc-4086-45ec-8198-d5aa75b8a353",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "5fa5967e-fdb2-44d3-b54a-6738fa7922ec",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "bc79dc58-0fbc-4308-8c0d-2caaa74fdf78",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "6e0df126-88ee-4273-ab97-187d2a083935",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "ea7174e1-5574-44c0-b6ca-7c5babe53a87",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "612a8607-1750-4a57-8820-e50ea8f6d7a7",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "82dcdbd9-df5a-4af5-88d0-1f8e4dce5f7f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "6b513265-a090-4404-93b5-6bdba4e36a4b",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "19ec3c9c-4d38-477d-9128-26e4486c254f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "8c671564-00ba-4210-afeb-af8318e7a1b2",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "aca7cbe6-c962-4918-990c-e923981463d1",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "cc9bb6d3-ae97-4393-9a34-7096ff7ffccc",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "d34cb919-9c92-425a-90f6-7271e3827c18",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "5beba7cb-cde9-4e1f-9fbc-3e132307f2d2",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "9a56bc56-f8b9-419e-9acd-966f92e5dbb8",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "2182d66c-f6a6-4011-807d-9eee9b52de69",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "5b403a62-2f0e-411d-9575-f6eac68795ca",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "61838dc9-ae93-44d7-a993-e44413b21237",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "d9700eb3-6f80-4a5a-96b6-4c36200bceb4",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "03ce9f9a-6f2d-4143-90c1-bc456b80b31a",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "54d5a0d0-4f09-41f9-a1ff-ef236a3b90ca",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "ab60f44b-85b0-4f52-a4c1-d778a87a773a",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "f63d26cb-f87d-49bc-b394-1f51a1ef4b69",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "85f8673c-b87c-4aa0-bc84-5cebe8d616c4",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "dc208b32-d24a-42b8-b40b-c306c211ef51",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "c609d539-3293-4f8d-9668-8c94cb75853d",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "6ae1bd16-3962-48c6-9f47-59c068b2ea2e",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "a278d83a-1835-433f-b07d-2cbdf1370da2",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "62044f8b-f9c3-4a7c-8373-2d9b5b9a8db7",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "840ca597-9761-46a0-ab0f-62c74bbd7a0b",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "fcbe24c5-e2dd-4bbe-b186-81a3bee26fed",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "97391f35-cddd-415c-a40b-4bdfcc31d5fd",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "0942efb2-99db-4fc1-8164-9283eadd5388",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "4f01c121-1818-47ff-ac5c-d1d12cda2d22",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "8c4c684b-1e3f-4d66-85e3-64f24ea0bb5f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "36526b5a-0400-4850-b5eb-1f4742640748",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "9490c15a-85b0-41b4-9212-2269efa147eb",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "1b322b70-1bfd-426d-a8b0-21fce46a1de3",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "df57f954-9669-4578-91c4-3d23a5b9ec72",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "c94fe4b6-d031-4fd3-a195-b0cc34fe9e2a",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "a7e1b227-5771-4347-9fc4-b95fcbf56b80",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "838e0bd0-52c1-47b7-b303-d00be33dc45d",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "413cb78d-ccaa-483a-a192-b3c81591dd61",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "110bce07-6ae2-4108-8c43-3202f33e85a5",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "6ef42223-748f-455a-acc6-fa198b7760fa",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "09808934-1022-4f01-bc0f-30656bd13fc0",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "45054e72-5e29-4962-9f2a-440dbc250350",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "9e7c008b-4b0f-4168-9fa2-80978bd0d089",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "5fbc0a28-95a8-4bb8-bb1a-9fdb443ef34d",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "f2aecb50-ff43-4b88-91ab-e4d180e7741e",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "0ab92151-0526-4dc2-8f95-18d16c45e52c",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "4dbeaa4d-cdb5-4d7b-be94-383b583d078d",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "2760e98b-922e-4d9b-8636-08158742f95c",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "0c58fa0a-80fc-4a15-89e3-961da979a115",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "8b61952f-05d7-430e-b11d-c8d2897a00a9",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "7b706d9e-dbd6-4548-bde0-0dedd5a1572e",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "362feac5-d62a-4c80-959c-b4838b1d1ea4",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "8d1e87e0-dd58-4483-b9f6-7576e72a392f",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "3a554a38-2ecc-4fa3-ab4b-9bd0bc4d7a12",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "04fe19df-08a3-440d-afc2-9e4d39d45009",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "0cbdfde1-fb83-467a-8205-f0ede6d87bac",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "1620cba3-1fcf-488c-96fb-50830bf61d77",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "8549fac0-c550-470a-983f-c0b759d99d95",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "c5e71eda-7ed9-4035-9f5d-611d6003fb62",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "a4f64897-daf4-4741-a41a-f72e5bfe3e17",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "7ad4f1d6-523c-4071-b671-14aa5a4cfe69",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "4dd375c2-317a-44a1-b0ff-c4cf6415d110",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "c9d83165-b3b1-478f-bc21-b11862327f5f",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "8effe364-5610-4f6a-b744-f0ded795a617",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "b8ff911f-1d79-4017-aa82-b256af38e718",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 0
+ },
+ {
+  "id": "5851d8f9-e077-48d4-aecb-ac90ed6b2097",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "0d9b3cf8-ee81-4c6e-a9f0-3d01c258aad2",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "e73d32b6-0d94-479d-80dd-2a9ac1cddeee",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "3fcf1e6d-4827-4b6d-a768-172c27beaecd",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "af5bdc2e-79f3-4efe-ac62-1730adae6656",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "42ac3fe2-e476-4459-9dc1-a4a3d894d9e5",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "23101e4e-b289-449a-80cc-4c6458754d38",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "calciatore_id": "f7dd9837-d69e-4be1-991e-9472949cfced",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "11c7c8e6-e247-4077-8552-7d85e71b22bd",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "36fa5542-f021-4893-9198-58a2f6105a76",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4860eb6a-4b72-4220-af1e-98aa1a8e5da2",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "1aa9fbb1-2e31-46bc-8e95-4e6347fa83a1",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "7103d76d-bf9b-47c4-b130-9849de947d1c",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "08510093-eaae-4ac2-9ae3-645122c4a067",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "892c6d80-77d3-4b8a-881d-0729b94ceeee",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "1b84f991-d0e6-4100-bc54-cf7307167d24",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4f7b3336-dc40-4782-9669-e1f9e45b7fbc",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "fda9b52c-b409-45fe-8807-309b21903dbb",
+  "ruolo": "A",
+  "presenze": 5,
+  "assist": 0
+ },
+ {
+  "id": "2765743b-9197-4305-a68a-7d5fed9c89b4",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "3c743c3e-81b6-4091-a4a7-e9628b7dd306",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b03b540f-5331-42b6-88a6-7136b96deb4f",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "73df7d04-d4e0-48c1-b0d2-ef9de3750c59",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6afa1d9d-1af1-4a0f-bbf5-1db59278463e",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "19d8d53b-db1c-4b5c-ac39-613741fe1a39",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "71cc4084-2c6a-4de1-9f40-4cbc3ed32e44",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "269963fb-c335-4d1a-973a-5c966b007104",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "2e4a36f8-b684-405a-a8c4-35eb6f341e6c",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "41f50a37-cbc7-4e87-979c-db3ad27e0e4f",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "58a57799-304a-4e65-8111-200573eecc69",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "0b9dfc17-7933-427a-a87b-e4b9a241481e",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8322463f-61a2-4ccf-9ba2-70814333141b",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "d820118b-ba24-4d51-9c5a-5957eb3a7837",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b8a9a95d-089d-42ab-9139-1b914a705e67",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "2e6818a8-37be-448e-8f17-e6f21bfc71e9",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "349f9a6d-ac48-4723-ac3c-48fa7b174742",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "c0527457-a172-4a64-8db4-7a9238c7aa5f",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8074bbdf-0fca-4acf-b5b2-fca1e6a94f7c",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "965d620a-ea1f-4c57-899d-d14fad61e907",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "9f3938bd-3e63-4b51-a20b-70c2b5813f10",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "90c9a398-6ddc-4bb8-ae43-200b9aa3ffc4",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c3f17160-7052-418f-93ca-d72b8a0b3f6a",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "76817eb9-5a09-448b-82e0-a69b9bb5b5bc",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6102c8db-1476-45df-b2df-8d0a1195792c",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "381885a8-880c-476b-a2bf-1ab51939c3f5",
+  "ruolo": "D",
+  "presenze": 5,
+  "assist": 0
+ },
+ {
+  "id": "173b4b89-872d-448a-8052-a7941b627a49",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "c9a7d4d4-83fb-42fe-a621-351495e8a9be",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "12f33f5b-b1db-47ac-af90-d5928a5bc4bd",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "579f4a3a-33a0-401b-9660-27dfc66999c6",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "d2d2c62f-63ef-420e-98cd-a165a99d77d5",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "0d479a5c-d195-448c-81fe-c793ae9f7bf0",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "75d0a318-8b34-4f2c-bf4f-1ae03ec454b8",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "b2095ab3-4f25-42ba-987c-33b5a02b4303",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0fac476e-3bc6-45b2-85a4-543186592270",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "b8f3e118-b330-4a52-9f55-a589943fd1d0",
+  "ruolo": "D",
+  "presenze": 9,
+  "assist": 0
+ },
+ {
+  "id": "f79f064d-c5d2-4b73-a638-db4a5f65cfec",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "5d8b3498-45eb-478e-9506-3324aebad517",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "2ad4233f-759b-4874-9682-051c49fba3dd",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "e36b8765-94f0-40c9-b00a-bc1de653368d",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e08bea49-bc38-4ff4-9442-0d680c4fe9ee",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "d360de3b-ca35-47ea-a5d1-53090ff15a4a",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "47872216-50c3-4786-8083-5c7653baf7a9",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "9164f94c-9361-4376-8ec2-65f828349828",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5a756fe1-e8f9-405c-b124-4d329f37d790",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "4635787e-2bbc-44dc-965c-a2682a30aecf",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f4d862cc-0c36-4831-bb1f-188ceccc42b6",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "703d306b-bf6b-4a89-a4c8-55afa0e6549f",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a6a874aa-803e-4a9f-a343-6bc15efeb324",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "43094612-6aa8-4266-ab9f-a05f2aeb99e8",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6704d4da-2d19-4a0c-abf8-92185aaab57b",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "f00bfe2a-c640-42e7-af27-15a9c0dd02ac",
+  "ruolo": "A",
+  "presenze": 5,
+  "assist": 0
+ },
+ {
+  "id": "ffcd2014-ce86-4774-8092-3786aab56af7",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "8be58246-7078-4c35-b37b-fabb65947e1f",
+  "ruolo": "A",
+  "presenze": 9,
+  "assist": 0
+ },
+ {
+  "id": "8eb39fb3-2dfe-4118-9ac9-e01944dab84f",
+  "torneo_id": "38fa0c0f-f91f-4808-a4f1-da17e206c161",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "d2b9484f-e10e-4e65-bf4f-dad046b32cd9",
+  "ruolo": "A",
+  "presenze": 9,
+  "assist": 0
+ },
+ {
+  "id": "1048ed99-e255-463f-8acd-c4022ff56dd0",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "36fa5542-f021-4893-9198-58a2f6105a76",
+  "ruolo": "A",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "a86e7712-5569-439d-a043-143668f98ef2",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "1aa9fbb1-2e31-46bc-8e95-4e6347fa83a1",
+  "ruolo": "A",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "75cfc9f2-c0d2-478e-9b99-1d620018cc83",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "08510093-eaae-4ac2-9ae3-645122c4a067",
+  "ruolo": "A",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "27e5e36c-629b-4bbf-bac0-2c7a95ab8a5b",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "8be58246-7078-4c35-b37b-fabb65947e1f",
+  "ruolo": "A",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "19146b7a-f5cd-4c36-8999-d3bbe981f87a",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "d2b9484f-e10e-4e65-bf4f-dad046b32cd9",
+  "ruolo": "A",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "a7ba57f9-2bf3-4630-b720-e70bb1e48244",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "1b84f991-d0e6-4100-bc54-cf7307167d24",
+  "ruolo": "A",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "30f1ea6b-007c-4f20-ab96-8830d2950e12",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "3c743c3e-81b6-4091-a4a7-e9628b7dd306",
+  "ruolo": "A",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "c0dce2e3-80b9-4ab6-91b9-edc31c08decc",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "73df7d04-d4e0-48c1-b0d2-ef9de3750c59",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "ffdc6f23-1ee0-4f6b-b192-bd7690af41f6",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "19d8d53b-db1c-4b5c-ac39-613741fe1a39",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "caa7a60a-b429-4e62-9e86-21a13472478c",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "269963fb-c335-4d1a-973a-5c966b007104",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "11df2794-2499-478f-a773-c95fae5e5297",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "41f50a37-cbc7-4e87-979c-db3ad27e0e4f",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "870443c5-0b76-4759-bea8-a1d02131dfdd",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "0b9dfc17-7933-427a-a87b-e4b9a241481e",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "1846c64f-f380-46a7-88dc-43ba6f5216a9",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "d820118b-ba24-4d51-9c5a-5957eb3a7837",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "d568d21f-b55c-4388-ba45-9bbe67e2cacb",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "2e6818a8-37be-448e-8f17-e6f21bfc71e9",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "204d2778-5161-435d-ab81-4703b2243a6c",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "c0527457-a172-4a64-8db4-7a9238c7aa5f",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "98c4bb9b-c283-4528-8333-b04ef5c160c2",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "965d620a-ea1f-4c57-899d-d14fad61e907",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "689c79f9-1e66-488d-b07f-8d710278d50e",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "90c9a398-6ddc-4bb8-ae43-200b9aa3ffc4",
+  "ruolo": "C",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "316a44ad-6abf-43ea-a8ea-151327fdd2f8",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "76817eb9-5a09-448b-82e0-a69b9bb5b5bc",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "3c6c33f2-e0e0-419b-bebb-4cdd90290739",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "c9a7d4d4-83fb-42fe-a621-351495e8a9be",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "d124b1d6-e411-4736-a101-17c0c97daeb7",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "579f4a3a-33a0-401b-9660-27dfc66999c6",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "dd883e4a-7094-4ee2-85f3-038cb2216271",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "0d479a5c-d195-448c-81fe-c793ae9f7bf0",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "79a0eb4d-871b-4fe0-98bd-dfc34ef106f9",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "b2095ab3-4f25-42ba-987c-33b5a02b4303",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "2fe294c6-94a8-4a89-b525-cb608395e5f3",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "b8f3e118-b330-4a52-9f55-a589943fd1d0",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "2746322c-9ddb-4e89-8fef-3584011d467d",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "5d8b3498-45eb-478e-9506-3324aebad517",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "e283dba4-4294-4747-add7-1f81ffaab871",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "e36b8765-94f0-40c9-b00a-bc1de653368d",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "a683776b-de77-42ad-983d-91dbd0c92af9",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "d360de3b-ca35-47ea-a5d1-53090ff15a4a",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "96562ade-f0d5-41e7-817a-2bdb46012ad1",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "9164f94c-9361-4376-8ec2-65f828349828",
+  "ruolo": "D",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "0bde135c-a251-48cd-9157-38b4d64c0e95",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "4635787e-2bbc-44dc-965c-a2682a30aecf",
+  "ruolo": "P",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "703ec216-57ea-4034-954b-612b5a996077",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "703d306b-bf6b-4a89-a4c8-55afa0e6549f",
+  "ruolo": "P",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "66183a5e-0830-457f-b0cd-8fd1e09dca67",
+  "torneo_id": "5e0ddf55-6c22-4e17-95e3-e58cf55671f6",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "43094612-6aa8-4266-ab9f-a05f2aeb99e8",
+  "ruolo": "P",
+  "presenze": 1,
+  "assist": 0
+ },
+ {
+  "id": "f51ea085-2023-48c6-b26e-e15e18c3e752",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "84fcebd0-c11c-4c3c-b914-c4f65fff03c3",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "897e5b89-dd38-4a33-b64e-280e78ca8d65",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "8fffa17b-9d6a-488a-92d8-bc11d3c7509d",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0fd0cc64-cf37-4de3-9034-18c556d60553",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "a139c780-1392-4937-b0ff-257d14a9cb02",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8742448e-7286-4a2a-9b3f-6d343dd01f2e",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "f4102a0e-33e7-4b70-82a4-bfd2474978ee",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6a70784b-81f5-4ae5-a6a1-8da9b6353cce",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "da33cfbc-acb2-47cc-a1d2-b59b27ec99af",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "58aba850-3a34-4900-9733-832611ed471c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "3920da29-b0f2-4405-9ab5-b32e675218c8",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0bbf1b87-efe1-4870-abc1-2349f9feeea0",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "dcfa197c-6fbb-4fa9-9abd-431464cc5311",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "080d841a-a8c2-4801-a8ac-0342bbf97883",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "36526b5a-0400-4850-b5eb-1f4742640748",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a7a1c594-a0b5-4bab-ae26-69273c42d33d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "b0ff281f-c63c-47bb-a422-60b3c2a4d134",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "34537b9a-2df1-497a-9d0f-5235a7cf9208",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "4d35d89f-435b-4004-a9af-113cdc1d8432",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "7dbf2867-1f87-460e-9027-ca1366cb0082",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "ae7644a3-f93b-4052-90e6-b18227de3a32",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f3773cda-771d-47a3-b61b-f160ae9b686a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "0bbb7761-ee01-4433-8526-0e6e70785876",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5f0f5955-71e6-4710-9e68-3f026faf0e44",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "3dea376b-4843-4dce-8b71-917c454da355",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "275aa0af-d6fa-4f6c-82dc-0ad034e8636f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "bf81a9cb-d99e-49d8-b970-d0fda97a90a5",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "95b64bd9-d794-4707-b15c-b071b72117b8",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "0b02dc63-8b28-48ea-a1f2-ff0789bfdc92",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "36dff156-c79c-461a-b288-31ddc6ad6cb2",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "3453012f-8e31-45e6-9095-2a7d7dc98014",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5e29453c-e95a-407f-ad05-16828f44ad60",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "91b0a504-0ebb-48fd-b818-1092df9ee131",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b6f14eb2-2eb9-45f8-a4b5-3bf3690e3c3c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "540e8389-a4e5-4ea7-9675-6fcdfd66059d",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0a7f6774-5b77-470a-be99-5e00f4c1894a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "af95be93-7f58-4ca6-b3ce-5cb223d0d449",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c80d53c3-cb9f-4b62-9382-7004f00cf8bd",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "4dbeaa4d-cdb5-4d7b-be94-383b583d078d",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "edded238-caef-44a1-82c4-ea1453e2d86c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "4cc6e07a-e73e-4f91-8def-d49acc6b4a45",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b23abfe4-c202-44a3-8529-fcdaa031161d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "7b706d9e-dbd6-4548-bde0-0dedd5a1572e",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "139e7687-c42e-4dcb-92c5-f3397d4de533",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "cd5c81c5-bec8-44a0-b5a6-bcd2c9a9a570",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e6ffd533-c029-4909-b1d9-bb8fa09bc2c9",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "d03897a5-999d-479a-acc7-05ba38fa1e1d",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a9702f59-b6c2-419e-b1c4-73907bdd1a8b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "46120fe4-c12e-4fd6-bf54-87a9c618d32e",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "9248424d-88a9-4c0b-8cb5-f3cf5ca715c6",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "fe21c4b6-8ea1-4d65-a01a-c03949f3c9fc",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "15466828-e6a3-45ad-af48-a45995aa8095",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "cc9bb6d3-ae97-4393-9a34-7096ff7ffccc",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "2c28c7a8-ccad-416c-bdce-6ecdc473538b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "b8ff911f-1d79-4017-aa82-b256af38e718",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "829b9497-6d75-4121-82a6-0832cfd92c28",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "5f405207-3fb1-4178-a082-bc9808ec21b3",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0e4aeacc-0665-4bed-b768-ee4ce1f1f45e",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "85f8673c-b87c-4aa0-bc84-5cebe8d616c4",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5356878a-8e63-451a-a7e9-9f2b307367d6",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "88de5839-ca52-494e-bad5-69c8114debcd",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f65840d5-c74f-480b-8ee9-733793beab90",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "13e01f5d-3a29-4446-88ef-c25a85c39a61",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "fdb0d020-d7d5-4f1e-9bb8-fecac957bb23",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "c609d539-3293-4f8d-9668-8c94cb75853d",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "80bcfbe6-e81a-4e62-b354-fd266f109e57",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "be2d9f3a-df36-48c8-bbfe-45f6e766f1fe",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "cf9853ee-e018-446b-a421-96c479ec83d3",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "2059dc5d-41f8-40b4-b356-4a5921042996",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8e3abeb4-4847-4896-8eaa-3eda1ccf8f0d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "d2ebf8f8-d4a2-4583-8c3e-cefa7c29af05",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "19d3a95a-0e61-477b-bc80-3c270630c20d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "adbb8407-c618-4cf9-bf92-273761e1c5d2",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "32163452-7aa5-4160-b142-41317da7d1b5",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "5b3e451b-d949-4e0a-bb4b-0613df8b0b71",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a4a8ef37-a11f-45a5-898b-a91e3358fc91",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "78fe33a5-ff53-4f2c-82b5-b47a93e7ed74",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "bdb2acae-a5b5-4d82-b437-caaeedaaf16a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "110bce07-6ae2-4108-8c43-3202f33e85a5",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a37f9475-9910-4942-a47f-a7f48e0bddab",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "09808934-1022-4f01-bc0f-30656bd13fc0",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "cac9db1d-394f-45f1-bd33-7c9f225494fb",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "7161df01-248b-4a5b-ab8d-5df77c8629d3",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8fa3b4bb-fd29-4f14-a759-6300f34cd05d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "dd0badb8-c5d9-4bf7-ab5a-55239f45313d",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "adb2b4dc-e41b-4afe-bd92-2adb76fe2db5",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "6429fbc7-1277-4090-a97b-abfddd59831d",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "265374a6-2835-4f1b-83c5-5408efcb39ee",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "6d41ca55-4065-49dd-a01c-d7f30351999d",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "24e56dd0-9622-47cf-8160-d71f012ecaf4",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "462d4759-3e57-4c2a-aada-06612d871e40",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "86f040f3-4f8e-490b-9484-b9e555036e79",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "80f0124e-d14a-4992-8003-faa889b8a0c3",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "674cbcbf-e45c-414d-b5a7-fa0474dc95a0",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "ef34ee91-489f-4940-b27d-86adfafe6fc4",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b0611eb4-fa73-475f-a209-f01590e958df",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "bd3c068a-3f14-4daf-8c2d-67abc139afe4",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "9d1d716a-1d0f-4cf2-b7a3-7ee037f872cf",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "4d411f28-e317-4ff4-860f-a5013c511740",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "d8e6e738-7f79-4f03-8986-9fd4a1333824",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "7513e2a1-0490-4304-aaf2-7a302b14dd87",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "85976bdd-e212-42ce-acf9-2471cbcc8ca6",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "612a8607-1750-4a57-8820-e50ea8f6d7a7",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "86626abd-0299-450e-96ef-489ca6ef8cd2",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "7ac6fc1f-e650-42ea-9869-c95570251fc1",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "d560193f-eae5-4b4d-990c-dcface564ada",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "980bbfb2-3b85-4ea0-84cb-389b9488025b",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "541560d6-362f-4c56-8982-8b75d7988a10",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "6ff6a96f-aa6e-4f10-bd13-0868a1395896",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b1617f4e-4e7e-4772-a621-526ffdd34abe",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "c4eb61d7-fccc-4ef3-bb23-874130cde603",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6bbb30e0-bf9a-4c5b-a5f8-69387dfa266b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "03ce9f9a-6f2d-4143-90c1-bc456b80b31a",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "dfcf9d53-fa43-41c1-a80f-4a44105d5985",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "55f60f1c-309a-4f84-8e53-ace5c665f32b",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "cfe9fdee-0499-436a-85bf-3dcef1750c94",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "ab60f44b-85b0-4f52-a4c1-d778a87a773a",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "ae3e7e04-7012-4adf-b04f-6856569387bd",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "45770361-950e-478e-99e1-f98dcf759863",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "9def66d6-b766-466d-a98b-35c1ff7164da",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "57b0cb30-e3c5-4205-a6e9-b097423df62c",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e5b49c2a-e65e-4b79-a4aa-771a2852a083",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "d3b80943-6c26-4b61-81bb-4f30212b0318",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a446cad1-e082-4b49-92da-b7ce8f223c10",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "867f42f5-f36a-463a-8633-1200fcd06134",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5652e504-2e09-4d60-ba08-bdba05f35013",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "7c99d707-44cd-4642-bf5a-9bc1b9bd34d0",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c1f06fbd-4f23-43e0-a415-0105a68428ac",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "d54695b6-3ab2-4a8a-8ff9-c0800e2c112f",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "44e5e6d2-c1f0-4e15-93be-192f22b968f2",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "840ca597-9761-46a0-ab0f-62c74bbd7a0b",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a9d23a85-7afa-4c26-bca1-adc873866a2a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "41307fa3-b019-405b-a612-6481b3957361",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "3128c7c1-17c2-4519-9a15-1b276b9cf493",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "08692d61-bdb2-4cbb-ad66-a133846e0abb",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1a42993f-3ce5-4bb7-877a-c6e5b70681a3",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "4f01c121-1818-47ff-ac5c-d1d12cda2d22",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c100a597-ea03-4611-aaf3-8e842d6d6eba",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "e599db9c-abd4-4c57-9d64-8becd65759d7",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "76857c6f-a893-4db2-a634-03ae9b052c1b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "6df44bcc-f229-4a97-af19-6d82b1ecdbb1",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1adee6cd-5b66-4a15-8987-ddb50a63f7d6",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "642f28da-d4cf-4a21-816e-2c42c3990aeb",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "2bcd6eb3-e394-4994-9976-e908a2f8963f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "8395ed4e-af84-4cd5-be88-590037f64920",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "bd28dede-1782-4286-b29d-1759b020a0f2",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "88988a8f-116a-4d72-8975-36b10977a65e",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e79c50ed-83eb-43b8-89fe-956bd9491de8",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "9064646f-72ec-418f-8f6c-49786173050f",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "3b878066-6a78-4b30-8fdc-c9c223ecff3e",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "0c173fdd-9423-4af1-afa3-938f273a3cf1",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "22e3578b-e26f-4c62-a993-a8c1dd767297",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "2f469ef8-6536-419a-9107-5fbabab8b8fb",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5d7eb656-eacd-4b0a-956c-2541ddf43a5b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "09c0c99c-ad0b-40b6-8665-916813fceb60",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8dae19b9-450d-4459-8d94-e86b6b6e1583",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "9915b741-b88b-4831-a380-4c3e039069f6",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5617e42f-68ad-48f6-8f16-fdf77043157c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "fdbffef2-0451-4a6c-8d48-3459db4e6f15",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6d0f2b09-9b20-4ae6-ab1f-e7d5d73c91c2",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "7e51d1f0-c990-4771-88ee-28253b1c5bce",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "11404448-120c-4143-9cfa-4514e43cae45",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "7ad4f1d6-523c-4071-b671-14aa5a4cfe69",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "fbec6a12-913f-4d89-8705-c50972f37a11",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "155b37ec-2e89-40b8-a25a-471884c782d9",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "d523f737-20ba-4c84-8ba7-0b6d9519bc6e",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "6b513265-a090-4404-93b5-6bdba4e36a4b",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "7b3c79d9-773d-4232-8404-e59fd015db9f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "04dff70b-7b5b-4f50-8cf9-971fac7bb295",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "872cee1f-ff95-44d1-a998-eeeb07ba3b87",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "calciatore_id": "ad2cf41b-b899-4f39-a513-b1810365dc2f",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "9ceb3b57-0bc7-4031-bb4c-dc2f5608fb57",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "61838dc9-ae93-44d7-a993-e44413b21237",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c2218284-c878-49f5-ab0f-a03653e38aa3",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "28637dfd-676a-40f1-97f3-3a5d131adee4",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "67e10d6a-42ad-4273-b704-deed28b3897a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "d9cdd760-9100-490b-ab11-53f2719b0a4b",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e8efa16e-8aaf-4eb2-b4f4-6deb89796d4b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "bfc9db12-05ca-4fb8-acf3-99809131063d",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1c42491c-ef40-4b36-a1c2-fa4bf214c460",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "e27d3344-e775-457e-bee7-50c93e7edcdc",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "aee958be-b65d-4c9c-b5a5-73bba0f04f53",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "556117ee-f3b8-4f8f-b54b-309461a0bf15",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "33b7a682-9241-4521-a262-d4955523d42d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "a278d83a-1835-433f-b07d-2cbdf1370da2",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b2087d18-cbda-4ac2-947e-db9655f0f80c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "e6eaf24c-f9a6-431a-b2fd-c54abc56b534",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "96d3f622-704f-44e9-92e6-a61b37ed7541",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "592a4cd6-5e47-4452-85fa-20de69fa7909",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "29093245-9047-4b27-88b6-2d626632c1b2",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "b35ee390-1bde-44ca-910a-e4065679807f",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f81271dd-a048-4bd3-be2c-ad3cff9602e8",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "18a1a913-51bd-4cb8-b6a5-8d224f4cc592",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "7a97805c-d7b7-4f9f-b11d-aeb9dd9a3d64",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "825ed1b9-4f38-496b-9525-4d05ae7c8e12",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "574bf724-bb73-4333-b5aa-f8c501291776",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "692983e3-0e1c-4282-a2c2-ffc9f665ac36",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "33d53aa0-626b-4fdb-9a27-69eb58e7a9fc",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "c4403e9f-be96-43dc-9cdb-27d3bd12cf85",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "12c6e5d1-6a00-4d41-9cfb-6513dd72a94b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "d5809953-b7d7-4ae6-894b-30f8b3b85367",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4f09aa0f-5c65-4eee-a129-4434544e7970",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "9e7c008b-4b0f-4168-9fa2-80978bd0d089",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "410defc8-e119-46c4-b640-0c03e854657c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "94f694f6-f645-48b4-af61-4fb42b10a552",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "2de02c5f-9c2a-412c-a933-911682ae6902",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "19788618-3229-4257-9edc-60c1410c6ccc",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e5e14781-6166-4ad5-bd4b-623213e05054",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "46f66aaf-a4af-4e55-85a0-92140a57db89",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0b0d43a3-daad-408c-8131-6dd69bf120be",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "551c93eb-8997-4dfe-a3b8-0232ff8a5de9",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "9c51e6e5-ca81-47fd-a2b9-a32afcc96246",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "14da9dcb-e134-40f7-819f-3ddf26f0cc33",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4b79adc0-a9fc-4772-8d2e-0108a24a3712",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "cdc92380-ff06-4251-bc5d-daaf19a581f6",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8d66b7ce-d7d0-49ae-b05b-03a6511a7a7e",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "8d1e87e0-dd58-4483-b9f6-7576e72a392f",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4e29ec80-e1db-42e6-97b3-5365383ccf52",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "a7377f92-4cf7-44a2-aa6e-7003de423d90",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "46c986b5-e2a5-4c32-a138-3eafe8dc264a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "86fd8daf-1052-4536-a6f3-a607f13e4e69",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "11d5c5a9-0c4f-4c60-8812-c0db2761abf8",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "290995a2-f224-4dce-b1fc-4414920150a2",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1fd60029-0742-4955-b18f-843971e1d497",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "afbf8244-26f6-4b9d-8344-af3f7bb23df7",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f6215062-bb24-44bf-896b-3fb6f5d17638",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "0ec8a25c-5494-45f1-a36c-ec65862d2555",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "42ae0830-1425-43a3-800f-638ba7fd3c3a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "b044dfa7-337c-41f2-bcc9-59aaeb61eed8",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1ce95f6e-1995-4368-b4aa-0a7726343db2",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "caafa92d-de40-4b20-bc2e-daf715991b80",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4bcb5df2-b051-4d65-a6ac-056245e6202f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "b444d248-0372-4654-919c-3b375e631d5d",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "252304e5-4f13-4770-88ba-31af8c346a38",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "135fdbb1-4eff-4098-979f-0c0ce678286c",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "2d5897e7-2f7c-4f53-8405-e65d75535ecf",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "f3596593-e706-4444-ad7c-6246c5b06f99",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a51c1098-b293-4475-83b5-0589e9219cb5",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "a113122a-88ad-43b4-995e-1dc33bf78c66",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "abebee51-fafd-4c73-bc49-6e808e05ec20",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "5386dab4-37f8-40df-a7e0-8e41f7c70e83",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b80ab2cf-9dd7-4336-af62-2ce431e4a09c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "a2a37a8f-2193-4596-9d94-2f8139095cad",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "db93338e-d795-4ef5-816b-ad644ec5f87f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "c7dbd2fa-1c45-46bc-b926-8a699b31b7d0",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f345eb0c-64b9-4308-96b9-f16d14be7151",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "f16682bc-0cd5-4e0c-9d04-67bb57749759",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "23493996-b69f-4ab7-ac12-f36728b0c494",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "17771017-7b39-4364-b69e-adf0cb263ac2",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "ea9e114c-4f3d-4c92-9dd2-d31a919e5d2a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "de7f5184-c332-47f3-9b0d-4d8eb96d56f9",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "573dc7f4-2e6b-4ac0-83d8-721d853b911a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "39c11cd1-6d21-452a-9d7f-c8ac82c53634",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "efd173c1-d8ea-4bd3-8064-1cd6c02e3922",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "8e2ce399-769c-44dc-99f4-fd3a66c633ea",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e1cd8a26-b95f-4c8f-808d-f6d23247ce69",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "a72b0873-d2e6-490b-a398-7ea25d52fdde",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "ff9a21d0-77e5-4740-a9c2-7c0824896041",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "838e0bd0-52c1-47b7-b303-d00be33dc45d",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "84b2c68e-d3f4-452d-b2e0-0d162d688722",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "50cb8131-b984-4da0-b2a0-69f9ddff65f4",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1f547941-baf8-47bc-88d1-5971839e45bf",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "16082944-851d-442e-a218-e5f409c63c36",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "471c30e8-0889-4000-a4d0-dac6fc6a7cf7",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "b060399c-b733-4b86-8c43-ba9de3d7dee4",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5dd2d6cc-2fd1-4380-9268-a12b4993cc2f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "5c616ea0-1347-4779-af4c-40298b12cf00",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b3b89a6c-c52b-4a16-8cc9-1ab66ef573bc",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "e5bbe986-4ba8-455f-a2e0-26029b0e15b8",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c2941e8d-5c77-4bfc-8514-bb3052b2669f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "c901faa2-97e1-4eaa-b77a-f42fd4fc8c47",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "074c206f-0d92-4339-9e52-1691caba77d4",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "537f6b0c-b2bf-46a3-b2b9-29a98c81bb48",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "200d7ca7-e81a-4eb3-985a-03088f2a3480",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "04fe19df-08a3-440d-afc2-9e4d39d45009",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "66772afb-f3b7-440b-a6ff-72311fec8970",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "04cdc6f4-355e-4280-8647-7a9da73fa670",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "29149c43-a982-469a-bd41-05ea49e625f7",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "1620cba3-1fcf-488c-96fb-50830bf61d77",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "3fd73820-5b9c-4ae9-9063-8705393b198d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "c5e71eda-7ed9-4035-9f5d-611d6003fb62",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e383abe1-7965-4ffc-880e-21f2eca141b8",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "42da13e4-afb6-4a59-9744-80f6af3030d4",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "49e17496-33c3-4634-bce1-7a014acdc716",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "460519c8-f411-4e01-b714-3123a55995df",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "7b500f38-d11e-4964-92d7-19d8b9ad0947",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "8c5c30d7-870e-4a35-a231-0d7eec2d3d8d",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "23b49b83-7654-44a2-9153-d29a522a8cd0",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "d815e1dc-c937-4b25-9b4b-968ca8d8399a",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e5ca7996-4c5c-41e9-adf7-765f4cd59e02",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "9fe10c70-8098-40de-a530-e0f4b86fb6b3",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "13d49a72-73a1-4bd5-8efc-44e4d3ba69cf",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "02b900e4-3656-4bfb-99a3-fca9be87d204",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8f59bfc4-cd75-4137-89b2-04262f0792ac",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "9c11164f-b9e3-48ca-ab09-68a50878f36b",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c5d17dfb-0609-46d7-a4e5-f7212b0d37ad",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "8d99c255-6eed-483a-92ee-998b33fb739d",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "56940b37-5a42-4db3-8f05-5151bf0550f9",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "e2a2c2af-7d0e-4bf6-a2e5-3c0ee6a99cd2",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b6fee7d6-7117-4bbd-8410-f38420c1de8d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "e1cde0d7-0ae5-461f-9324-db8ead5f098a",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "e6d69155-0ad4-4057-9f0d-f1dc112ed2dd",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "9601a591-2637-4b59-88dd-720cd17c1d80",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f2f72679-f320-49e8-8862-60e88bf7680f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "a99cc345-26ed-4f22-8f61-028fb22cadea",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4bd86bfc-0963-49e3-8a41-9d46120e0da4",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "308e0e6a-77fb-4c79-9162-dd9977552e62",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0e0fb9d4-31c8-412b-bcd9-ed3afaf08a7d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "3586f182-1578-4630-9ce5-b40b207b1569",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "20ad462d-9142-44d3-8a22-7a47f4e53250",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "6b09c362-d24a-4d01-b18d-7bdc93b096fa",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6cba3691-de4f-4555-b134-687f3fae2be8",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "df298475-58d1-4222-8ae9-d42c68d5af43",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8f13863a-d3b6-4e0d-b535-d1cd77754002",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "b4cd9d22-a333-4274-8df6-8186498ba917",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5baee618-2851-4c72-8a14-fef300f463fd",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "b5ccfd85-9684-4cff-86d9-dffae77904ab",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0483ae1f-706a-487a-bc97-efd54a640b44",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "72a07f93-d304-4c1f-abe6-7cc4b1327afe",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b0dbabbe-0f68-462b-bb70-2378a429d06d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "7c5a0089-8b17-4168-a180-f448afbde9aa",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "600b3880-30d3-4258-8931-29a552857a0d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "f65d7857-3b5e-427c-a45a-f57b8b623aad",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5028eb2f-e299-4958-969a-0f5939ee80b2",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "3b3b5d42-0b0c-4e51-aafb-c180acf05774",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "ec5cddc6-ae36-447c-9740-96bbb2c71a77",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "5fa5967e-fdb2-44d3-b54a-6738fa7922ec",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "88ac71e1-8bd8-4fb3-bf68-e7b2d2744226",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "92d169ca-d559-482a-879e-d42abbf768e2",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c7ac2979-b562-4fe1-a63f-9f299f452384",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "6e0df126-88ee-4273-ab97-187d2a083935",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a0046943-c1ee-4bbf-938d-8a98c6211f38",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "c47d7089-e79a-4bab-9c8f-fc8a7cb90f3e",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "9bc27d09-a33d-4885-b9be-677893dcc685",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "9d0da99b-1943-45da-8fc3-578885d7828d",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "7415c32f-b7d5-4e56-a8ba-5f06c4960dae",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "3e3e1ae6-8357-4dde-9426-aa97a8634abe",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1cab6037-7504-4fed-91bb-e1b771d3a6d0",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "2dd22c48-6831-4e1e-b5fa-1de45940d71a",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "34b65700-fa08-4d71-b2f5-6de658085bfc",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "9d56ce51-a82c-41cd-80ed-511e0c1e18ef",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1971cf87-1bb3-4db4-a451-329cb8703552",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "9effc7d4-894e-4999-810e-d3bb6a0e90e0",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "ea4bd886-c8e4-47b5-a82b-ddef71680595",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "20c89e6c-1dc7-4f01-8f07-d97567ee48f5",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1e7cc128-e801-472a-919a-4550089aa590",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "00fc4ae7-33f3-4a9d-85b7-e2ca70452b5b",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "62f901fa-3c5d-4737-be3c-8cd196bb2c49",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "c9971745-bf98-49de-b558-c07dfdc12c50",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "68e0f2f6-f356-4345-95c5-bd17297015e4",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "967ac20e-2111-419c-8cb9-0b4a6f3b66d4",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b4eb8d41-b777-4bc9-847b-16eb0faf8ea7",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "0d509914-8ae4-499a-a368-718b19079c39",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "94393630-81b2-4937-a253-81946622e4f7",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "287ac64c-fd95-48fd-8e74-ff924fdd9972",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "ee9d3803-ad09-4fd3-9a5a-b0651d52f7ef",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "db59e77d-ef19-46b6-bdee-6fbb845092cc",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "0144c6fa-ce53-4d38-a77c-a4033c3fce11",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "8dab2a4d-2646-4512-8f81-d3006ca45b5b",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "403addec-d176-4afe-80af-6676d1dd867b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "97391f35-cddd-415c-a40b-4bdfcc31d5fd",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "3f749934-34aa-4bca-a48d-cfdfce6c9c64",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "fbd949b6-37e3-4749-a37d-075ee105e304",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "916396b9-bb72-4f66-b630-f6b707a068b8",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "95dd1cd3-65aa-44eb-ade2-2ee2bcebbe74",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "7fbfc224-86b9-4e6b-88fe-c94d6360ebff",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "c94fe4b6-d031-4fd3-a195-b0cc34fe9e2a",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "d8fbd5e2-6b6a-45f9-963a-f22636262243",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "37b24c7e-8d5b-44ee-8f53-ac1a8bc2834f",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "40ab4e73-7636-4160-b942-73870a3607f1",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "7bbfb44c-4733-470b-a763-a93fc51d261c",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "8e7af90c-1048-4f9e-8531-7d326c1c7617",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "465bac13-bb61-4ce4-b136-55a6b97f25e0",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "56dec9a0-8432-48bc-90c3-bdb148e309b6",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "621a8a88-0ed5-4cee-9770-054687ed7be3",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "a7d744a9-5f1e-4001-8bdd-3d7dc965d21d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "58b83bce-b6ee-4c2e-8f44-8cfb51d16cd8",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "ee6ecfc6-828c-4074-9f15-253eeaf65fa6",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "4fb637e5-e79e-4fcc-a801-4d9b7125289d",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5874b4d5-7904-4bfb-8e6b-f50a240ee274",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "3c301da4-4622-4865-970d-0ee9bc1d85ea",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "534d490d-7e85-4048-8832-71fa028b136b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "a70e8318-2d8f-4a07-99ff-a319b63e5544",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4db4b323-a441-47fe-8a48-2dc930a6906c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "7734beac-774f-4dad-a217-8856b6b99b42",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "473c8d0a-ba9f-42b3-8420-fb044c0208f8",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "c9d83165-b3b1-478f-bc21-b11862327f5f",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "03f3cf85-16ed-42cd-ac64-6710df75ddc5",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "46a77843-4756-4d39-aab3-374380013e61",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "162b77aa-1fb5-43f5-88c6-fab5cacbf808",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "8c671564-00ba-4210-afeb-af8318e7a1b2",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6963281f-3baf-4364-9682-7d2a78d295bd",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "d93585d2-0eee-447c-b573-80ca60cc3f33",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6aa2cea1-cbe7-4a52-84d5-976e3cbff669",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "2182d66c-f6a6-4011-807d-9eee9b52de69",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "4ce5a8a5-b9c9-4e95-9ead-45785a6ccf37",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "0097006b-b888-430c-a4c1-6f74c4293b3f",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "30ee61da-9563-4771-b680-c335ce1a8dda",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "56908e07-7430-454e-a65e-104659b6a761",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "d5ca113f-a9e3-4c60-bb78-7439d9a5ee51",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "f072522f-045a-4e4a-9d19-3d23ac8f51b1",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "88c4a850-8378-4ddb-9526-10d91af533c5",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "29b4e79e-0380-4fdd-b2d5-7266f064cd97",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "bbc24ab9-bf03-486b-8406-eb0314f0c261",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "244a2693-d89e-4db6-8549-5a351112bf77",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "b10d12ac-b4b7-4399-b27e-65913916812a",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "39a718e9-0cc3-452d-a764-df62620e4c90",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "2a53e165-7e55-4599-a4b3-567f21a20a86",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "7a93f7af-f5a5-4a8d-950b-46e356ed7d56",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "64d0107a-cf70-4347-bd18-cbf9d21d3d01",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "10941d1b-0629-441b-a16f-ee9a7662a894",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "60d49b13-adb9-4042-a1be-41d7aa846e20",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "7e87315c-db00-4a3e-bbda-cef5574a7ceb",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "fc62be21-faca-461c-a46a-5671c52c0a8f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "3581cf90-d198-45c8-b1fc-48d64c508171",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "93bf63c3-9920-4267-bb57-dbfc4fd1d98c",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "f0b5e386-4b5c-4397-b97f-aede97ee3bc6",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "40743356-943f-4d8b-9588-c4461304a4ad",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "2a95a3a8-ce04-4764-9764-d7652f9c08bc",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1c3418f4-edd2-4449-9ba8-b55251ae97a7",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "c2411ad9-23b7-43c8-a0d7-a245cdd8a478",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "93e07adb-59c7-4d5e-984a-fd81a87bc2a9",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "d73b0cfa-3f30-4a14-9ff8-dfb880422d97",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "7bc27ca4-06a6-42e8-be8b-97baaead59c9",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "e3f11a29-4888-4470-8af2-f430b8c48ffa",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "90d4cdc8-93ca-45fe-8253-2d4da9f29f81",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "533a6c75-db85-44d3-b5c0-aa0bdba31d9f",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "c97c8075-6f0b-4d51-a772-c4c29964f059",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "93088273-574e-4742-b693-999b46f50836",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "213ff418-1386-43bd-a915-6e2f3a6f9fbf",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "f5f1a183-ceca-4393-8464-5d59bce2ad06",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "3ff4b45d-762f-4d2c-af4e-90ec6599b075",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "79a6136e-9e38-45f1-bea1-3adf34bab3d9",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "1ee276db-a27a-4beb-b1d3-e1e42e4be6ee",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "604acffd-1cda-4077-a5bc-9996885deaf4",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f93e716f-39ac-46a7-940b-3861c6e638cc",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "e09ad8f4-7ad6-46aa-abfe-a85bf3304f91",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "45e50cd8-23be-49bd-a644-13ea2dc7a304",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "33ba3662-69f5-46c0-947a-1656783b9a80",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "186cb418-5f53-4c17-aed4-42fccd042237",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "0c58fa0a-80fc-4a15-89e3-961da979a115",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "f62ae818-e8fa-453d-acf7-43b47d16a42f",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "53712137-68c7-4c5d-a6de-a28f8460c709",
+  "ruolo": "P",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "2b521e3b-6358-461a-beaf-153386eaf7ae",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "155f87ee-6760-4bab-82c2-e9c08d4cee91",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5c2fe00e-a26d-4eef-be7b-49cf318f35ac",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "30b87af1-c298-45a8-8ff6-f267c16def9f",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "d0f2fa58-e5c7-419a-8362-47dd1040858d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "d13ec64d-ba0e-4845-8a00-eba56198cec1",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "eaef66eb-41fa-4e1e-bba7-4515d4c54175",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "c58d6e90-6542-44e8-b039-9c5b876d035f",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "5026d9e3-1b46-4a99-8b38-cf25eab072ad",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "702be071-60c6-4ccc-b55e-aedcec16dfa0",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 0
+ },
+ {
+  "id": "6cddefa6-4bbd-4580-8e05-793534083258",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "0b02dc63-8b28-48ea-a1f2-ff0789bfdc92",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "6bcd025f-d28f-43b0-bc27-1637aac7e9e5",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "527e9930-f150-4cbb-abcb-c7bef7e43ba4",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "c93ac4be-a32e-43ce-a84c-47759aff4a6d",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "7c5a0089-8b17-4168-a180-f448afbde9aa",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "7966f8df-eaee-4ce1-8e97-95c8e8ac5d6f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "9915b741-b88b-4831-a380-4c3e039069f6",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "e3075192-ac5e-4b83-be5f-0853b04c8255",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "9d56ce51-a82c-41cd-80ed-511e0c1e18ef",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "0c4f3c0d-9fd3-412c-8a9a-c4f7c2a24285",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "ad2cf41b-b899-4f39-a513-b1810365dc2f",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "cfac0a16-53a2-4f0e-9fd1-5e2d8d0df6f6",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "df298475-58d1-4222-8ae9-d42c68d5af43",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "90aff2e4-6653-4e54-aad3-7bce11884c42",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "e5bbe986-4ba8-455f-a2e0-26029b0e15b8",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "b4e504b5-a50e-4870-bbe2-06910a29a406",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "calciatore_id": "ef34ee91-489f-4940-b27d-86adfafe6fc4",
+  "ruolo": "C",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "4aa7d3f2-fc05-4510-a5ef-72e46bcec01a",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "calciatore_id": "f0b5e386-4b5c-4397-b97f-aede97ee3bc6",
+  "ruolo": "A",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "660a3d30-abfc-43a8-ad1e-78280ecb9514",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "0d9b3cf8-ee81-4c6e-a9f0-3d01c258aad2",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "c5d917db-b5f5-420e-96c0-fe35cd87a441",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "0db641b5-5a75-4a3d-aa51-75ad8c308e40",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "49d724f6-ecc4-48e2-b42a-c5dedf26d7e3",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "2f661168-498d-45e9-b3b1-38da76b58ee8",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "9245ee93-269c-411c-b201-3866f3bbf7ac",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "calciatore_id": "3fcf1e6d-4827-4b6d-a768-172c27beaecd",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "c9ae501b-84f0-4dcf-aba4-d15fd44de075",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "42ac3fe2-e476-4459-9dc1-a4a3d894d9e5",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "2da4c3d4-0c4a-48d0-bbc9-aa810012d498",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "calciatore_id": "49492265-60dc-44e6-8cc6-84029f3023b2",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "2f5ad580-843d-48bf-8324-9100cd44e68d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "calciatore_id": "527e9930-f150-4cbb-abcb-c7bef7e43ba4",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "9c76eea1-b761-4a36-8443-2ca6ccbf67fa",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "calciatore_id": "639459ce-178a-4998-810b-5e6dbf201fdd",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "79a9dbd9-efca-4af1-b63c-231a9f215918",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "63e34a07-4947-417c-9bde-b5b9e845b32a",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "e046a37d-0462-4ad4-a61c-7b4cb73778f5",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "calciatore_id": "69d60fe5-19e6-4cdf-b2ce-99da4c3f0f5e",
+  "ruolo": "D",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "365dc2dc-4d67-4cd6-98a5-fa7fac472fbc",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "bb6cf66f-6afb-43c6-b0e7-b07ea02480ba",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "c9f79c2f-6d9e-41f5-b79b-b17e40e0680b",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "calciatore_id": "e8a84d55-3018-428f-9a31-ec1574d78bbd",
+  "ruolo": "C",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "6a28143c-9c71-4713-8fab-0811f063955d",
+  "torneo_id": "9ce6c495-ac49-4fa1-a2d6-2b07a86f3ea0",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "calciatore_id": "f7dd9837-d69e-4be1-991e-9472949cfced",
+  "ruolo": "A",
+  "presenze": 14,
+  "assist": 1
+ },
+ {
+  "id": "61ec6f78-906e-4763-9e33-ca690b6c67a4",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "2f661168-498d-45e9-b3b1-38da76b58ee8",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "7c60ffb4-3ec5-455d-bb6c-d8aeeee3db2a",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "calciatore_id": "639459ce-178a-4998-810b-5e6dbf201fdd",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "4f48ab65-29ca-4676-b38c-0a38af74b018",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "63e34a07-4947-417c-9bde-b5b9e845b32a",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 1
+ },
+ {
+  "id": "25e19919-28be-44ba-ad36-2fee4f6bd92f",
+  "torneo_id": "019808bf-8f3c-4e8d-85bd-2016909bf73d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "calciatore_id": "69d60fe5-19e6-4cdf-b2ce-99da4c3f0f5e",
+  "ruolo": "D",
+  "presenze": 12,
+  "assist": 1
  },
  {
   "id": "896af7ec-cd06-4fe1-9295-7297c0b5709a",

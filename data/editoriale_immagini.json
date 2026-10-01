@@ -1,1 +1,106 @@
-[]
+[
+ {
+  "id": "152760fd-8ba5-42a5-86cb-a5cf18328dea",
+  "editoriale_id": "bb2693c8-1769-4e90-8f04-83c696af80cd",
+  "url": "/editoriali/editoriale-6-formazione-patese.png",
+  "didascalia": "Patese — valore FVM degli 11 titolari: 1513",
+  "ordine": 1,
+  "chiave": "formazione-patese"
+ },
+ {
+  "id": "c5982d0c-0996-430f-a5a7-7c024e0ac5fe",
+  "editoriale_id": "bb2693c8-1769-4e90-8f04-83c696af80cd",
+  "url": "/editoriali/editoriale-6-formazione-danilo.png",
+  "didascalia": "Danilo — valore FVM degli 11 titolari: 1327",
+  "ordine": 2,
+  "chiave": "formazione-danilo"
+ },
+ {
+  "id": "445d5fda-d641-4466-9878-93975346930b",
+  "editoriale_id": "bb2693c8-1769-4e90-8f04-83c696af80cd",
+  "url": "/editoriali/editoriale-6-formazione-enriketto.png",
+  "didascalia": "Enriketto — valore FVM degli 11 titolari: 1291",
+  "ordine": 3,
+  "chiave": "formazione-enriketto"
+ },
+ {
+  "id": "a31607bb-08ae-4e36-99bf-6cbb92673d0e",
+  "editoriale_id": "bb2693c8-1769-4e90-8f04-83c696af80cd",
+  "url": "/editoriali/editoriale-6-formazione-royale.png",
+  "didascalia": "Royale — valore FVM degli 11 titolari: 1121",
+  "ordine": 4,
+  "chiave": "formazione-royale"
+ },
+ {
+  "id": "7e13d508-dd9e-47e1-aa5f-bdba365a8ffa",
+  "editoriale_id": "bb2693c8-1769-4e90-8f04-83c696af80cd",
+  "url": "/editoriali/editoriale-6-formazione-zeman.png",
+  "didascalia": "Zeman — valore FVM degli 11 titolari: 1066",
+  "ordine": 5,
+  "chiave": "formazione-zeman"
+ },
+ {
+  "id": "9a28de61-a570-45cb-a644-0cd891c354a9",
+  "editoriale_id": "cecc139a-9ea6-443c-857f-f9d91f924380",
+  "url": "/editoriali/editoriale-7-formazione-cavax.png",
+  "didascalia": "Cavax — valore FVM degli 11 titolari: 1120",
+  "ordine": 1,
+  "chiave": "formazione-cavax"
+ },
+ {
+  "id": "a8122c7a-895c-4527-8a34-823f5cb7f1a5",
+  "editoriale_id": "cecc139a-9ea6-443c-857f-f9d91f924380",
+  "url": "/editoriali/editoriale-7-formazione-federeal.png",
+  "didascalia": "Fede Real Fe — valore FVM degli 11 titolari: 1234",
+  "ordine": 2,
+  "chiave": "formazione-federeal"
+ },
+ {
+  "id": "dd9c6902-f032-4fc2-b006-bb032818c483",
+  "editoriale_id": "cecc139a-9ea6-443c-857f-f9d91f924380",
+  "url": "/editoriali/editoriale-7-formazione-ritchie.png",
+  "didascalia": "Ritchie — valore FVM degli 11 titolari: 1145",
+  "ordine": 3,
+  "chiave": "formazione-ritchie"
+ },
+ {
+  "id": "7d8eb3db-9d14-49e7-b423-fc2b721e2bf1",
+  "editoriale_id": "cecc139a-9ea6-443c-857f-f9d91f924380",
+  "url": "/editoriali/editoriale-7-formazione-lorenzo.png",
+  "didascalia": "Lorenzo — valore FVM degli 11 titolari: 1028",
+  "ordine": 4,
+  "chiave": "formazione-lorenzo"
+ },
+ {
+  "id": "035388a0-93ca-42ef-aac7-058073eca062",
+  "editoriale_id": "cecc139a-9ea6-443c-857f-f9d91f924380",
+  "url": "/editoriali/editoriale-7-formazione-paolo.png",
+  "didascalia": "Paolo — valore FVM degli 11 titolari: 838",
+  "ordine": 5,
+  "chiave": "formazione-paolo"
+ },
+ {
+  "id": "431b3542-af47-4ffd-ae77-5162c67182b6",
+  "editoriale_id": "cecc139a-9ea6-443c-857f-f9d91f924380",
+  "url": "/editoriali/editoriale-7-formazione-lele.png",
+  "didascalia": "Lele — valore FVM degli 11 titolari: 897",
+  "ordine": 6,
+  "chiave": "formazione-lele"
+ },
+ {
+  "id": "d359da41-7113-4b0d-831a-06caf46f7970",
+  "editoriale_id": "cecc139a-9ea6-443c-857f-f9d91f924380",
+  "url": "/editoriali/editoriale-7-formazione-sergio.png",
+  "didascalia": "Sergio — valore FVM degli 11 titolari: 875",
+  "ordine": 7,
+  "chiave": "formazione-sergio"
+ },
+ {
+  "id": "002fe2e9-39f2-42aa-acb5-0af4c66aaa11",
+  "editoriale_id": "cecc139a-9ea6-443c-857f-f9d91f924380",
+  "url": "/editoriali/editoriale-7-formazione-iavaroby.png",
+  "didascalia": "Iavaroby — valore FVM degli 11 titolari: 799",
+  "ordine": 8,
+  "chiave": "formazione-iavaroby"
+ }
+]
