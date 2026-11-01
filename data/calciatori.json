@@ -613,6 +613,15 @@
   "nazionalita": null
  },
  {
+  "id": "de30b198-60a4-4b47-9d42-84edf27af753",
+  "nome": "Kvernadze Giorgi",
+  "ruolo": "A",
+  "squadra_reale": null,
+  "note": null,
+  "id_esterno": null,
+  "nazionalita": null
+ },
+ {
   "id": "c9147c00-c7ea-450c-bce1-6bdbc058f2a7",
   "nome": "Pecoraro Marco",
   "ruolo": "C",
@@ -765,6 +774,24 @@
   "nazionalita": [
    "RS"
   ]
+ },
+ {
+  "id": "39d30685-8726-48ff-bff4-f708e1732fc1",
+  "nome": "Birligea Daniel",
+  "ruolo": "A",
+  "squadra_reale": null,
+  "note": null,
+  "id_esterno": null,
+  "nazionalita": null
+ },
+ {
+  "id": "0eb007a3-261e-49b9-98de-e84735b75033",
+  "nome": "Motta Marco II",
+  "ruolo": "P",
+  "squadra_reale": null,
+  "note": null,
+  "id_esterno": null,
+  "nazionalita": null
  },
  {
   "id": "1cf017c9-5767-4620-9890-e51920225239",

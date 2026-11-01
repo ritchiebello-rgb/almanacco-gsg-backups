@@ -115974,5 +115974,1317 @@
   "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
   "gol": 0,
   "assist": 1
+ },
+ {
+  "id": "6920b082-6e6b-4074-abc6-ddfb06104c6d",
+  "partita_id": "f8609de0-30af-4772-8449-1a36e5c2ff8b",
+  "calciatore_id": "2a95a3a8-ce04-4764-9764-d7652f9c08bc",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 2,
+  "assist": 0
+ },
+ {
+  "id": "9270268a-6863-406c-a82d-95c5b358fb6e",
+  "partita_id": "f8609de0-30af-4772-8449-1a36e5c2ff8b",
+  "calciatore_id": "604acffd-1cda-4077-a5bc-9996885deaf4",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "183ced75-5cf6-4f91-a33d-00346fc34954",
+  "partita_id": "f8609de0-30af-4772-8449-1a36e5c2ff8b",
+  "calciatore_id": "e5bbe986-4ba8-455f-a2e0-26029b0e15b8",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "26c22efc-b08d-46fc-be25-1112542d0f8f",
+  "partita_id": "f8609de0-30af-4772-8449-1a36e5c2ff8b",
+  "calciatore_id": "527e9930-f150-4cbb-abcb-c7bef7e43ba4",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "f7a8d798-a035-4fd5-a4d8-0041aff44101",
+  "partita_id": "1295b22f-09bf-4672-ba09-72925408d449",
+  "calciatore_id": "e6eaf24c-f9a6-431a-b2fd-c54abc56b534",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "1034f20a-27f8-49b4-93c8-ef8e709f6f01",
+  "partita_id": "1295b22f-09bf-4672-ba09-72925408d449",
+  "calciatore_id": "b35ee390-1bde-44ca-910a-e4065679807f",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "2ce89362-5e40-4f85-8167-19acae8f347d",
+  "partita_id": "1295b22f-09bf-4672-ba09-72925408d449",
+  "calciatore_id": "94f694f6-f645-48b4-af61-4fb42b10a552",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "13426c7d-a5dc-4488-ac6e-703f3901e7a4",
+  "partita_id": "1295b22f-09bf-4672-ba09-72925408d449",
+  "calciatore_id": "639459ce-178a-4998-810b-5e6dbf201fdd",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "2d8beb79-c6ca-4eae-b2be-3548f1e39ace",
+  "partita_id": "1295b22f-09bf-4672-ba09-72925408d449",
+  "calciatore_id": "6e0df126-88ee-4273-ab97-187d2a083935",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "c632a13b-d2ee-4beb-a5d7-c839e27aee56",
+  "partita_id": "1295b22f-09bf-4672-ba09-72925408d449",
+  "calciatore_id": "6b09c362-d24a-4d01-b18d-7bdc93b096fa",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "1730670e-da0e-4ad3-a1c5-a40992fdc445",
+  "partita_id": "1295b22f-09bf-4672-ba09-72925408d449",
+  "calciatore_id": "8d99c255-6eed-483a-92ee-998b33fb739d",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 2
+ },
+ {
+  "id": "67317aa7-126b-4a51-8b6b-0666143db9a3",
+  "partita_id": "1295b22f-09bf-4672-ba09-72925408d449",
+  "calciatore_id": "d815e1dc-c937-4b25-9b4b-968ca8d8399a",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "6e4bff85-7333-4e10-9806-9cac169085ac",
+  "partita_id": "024e2ba5-106f-4ae8-b796-49f28eafe88a",
+  "calciatore_id": "dcfa197c-6fbb-4fa9-9abd-431464cc5311",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "c9b5068d-3617-4801-abb4-842d28f6c6c0",
+  "partita_id": "024e2ba5-106f-4ae8-b796-49f28eafe88a",
+  "calciatore_id": "0b02dc63-8b28-48ea-a1f2-ff0789bfdc92",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "8e816e43-7b87-467c-abc7-75fe7fa0bc7a",
+  "partita_id": "024e2ba5-106f-4ae8-b796-49f28eafe88a",
+  "calciatore_id": "a139c780-1392-4937-b0ff-257d14a9cb02",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "cf28605a-d7a4-4077-bdc1-fd428ed38b7f",
+  "partita_id": "024e2ba5-106f-4ae8-b796-49f28eafe88a",
+  "calciatore_id": "c94fe4b6-d031-4fd3-a195-b0cc34fe9e2a",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "fc5e3c07-3c76-4407-b7aa-2524aba59784",
+  "partita_id": "024e2ba5-106f-4ae8-b796-49f28eafe88a",
+  "calciatore_id": "46a77843-4756-4d39-aab3-374380013e61",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "df395a70-f91e-4c43-9be7-9b6bb8071534",
+  "partita_id": "8bc82b76-d0ca-46c0-9c27-1a608caee97b",
+  "calciatore_id": "2f469ef8-6536-419a-9107-5fbabab8b8fb",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "d274aba0-e113-413a-ad98-aba31ce3b8ed",
+  "partita_id": "8bc82b76-d0ca-46c0-9c27-1a608caee97b",
+  "calciatore_id": "7e51d1f0-c990-4771-88ee-28253b1c5bce",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "ccf1cd4d-c18b-43bc-8a2e-db3844cde6c4",
+  "partita_id": "8bc82b76-d0ca-46c0-9c27-1a608caee97b",
+  "calciatore_id": "462d4759-3e57-4c2a-aada-06612d871e40",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 1,
+  "assist": 2
+ },
+ {
+  "id": "38f45549-79a1-456d-b37c-d69f3c2a225e",
+  "partita_id": "8bc82b76-d0ca-46c0-9c27-1a608caee97b",
+  "calciatore_id": "110bce07-6ae2-4108-8c43-3202f33e85a5",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "f9fa4249-d2c9-4b45-8df0-6b4c9d29f088",
+  "partita_id": "b70da2b3-4c05-4ce6-a9d4-a3fd962c93ec",
+  "calciatore_id": "110bce07-6ae2-4108-8c43-3202f33e85a5",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 3,
+  "assist": 1
+ },
+ {
+  "id": "bc59ee0c-c22e-496e-9c8f-5279d50917df",
+  "partita_id": "b70da2b3-4c05-4ce6-a9d4-a3fd962c93ec",
+  "calciatore_id": "e5bbe986-4ba8-455f-a2e0-26029b0e15b8",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "5533c052-d894-42e3-8069-4cb45483656a",
+  "partita_id": "b70da2b3-4c05-4ce6-a9d4-a3fd962c93ec",
+  "calciatore_id": "527e9930-f150-4cbb-abcb-c7bef7e43ba4",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "c020e69a-3f89-4ed9-8fd1-ed8204e2dd75",
+  "partita_id": "b70da2b3-4c05-4ce6-a9d4-a3fd962c93ec",
+  "calciatore_id": "94f694f6-f645-48b4-af61-4fb42b10a552",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "5db4243c-daa0-49f4-91cb-3ade5fe75c21",
+  "partita_id": "b70da2b3-4c05-4ce6-a9d4-a3fd962c93ec",
+  "calciatore_id": "d815e1dc-c937-4b25-9b4b-968ca8d8399a",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "2ec2e067-e6c8-4941-b0aa-7672a4714669",
+  "partita_id": "72e1ddc2-bda3-4b19-96b3-26f684eb16e3",
+  "calciatore_id": "f2aecb50-ff43-4b88-91ab-e4d180e7741e",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "b449cc36-0a59-4b0d-9383-e753679ffd8e",
+  "partita_id": "72e1ddc2-bda3-4b19-96b3-26f684eb16e3",
+  "calciatore_id": "dcfa197c-6fbb-4fa9-9abd-431464cc5311",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "44bd0ca3-cc18-45f5-ac40-ba196453e618",
+  "partita_id": "72e1ddc2-bda3-4b19-96b3-26f684eb16e3",
+  "calciatore_id": "8d99c255-6eed-483a-92ee-998b33fb739d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 1,
+  "assist": 2
+ },
+ {
+  "id": "adcb528d-20dd-4648-9525-00230b55565a",
+  "partita_id": "72e1ddc2-bda3-4b19-96b3-26f684eb16e3",
+  "calciatore_id": "bf81a9cb-d99e-49d8-b970-d0fda97a90a5",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "c83e6151-4742-4b07-b043-6df1598ccbfe",
+  "partita_id": "72e1ddc2-bda3-4b19-96b3-26f684eb16e3",
+  "calciatore_id": "b35ee390-1bde-44ca-910a-e4065679807f",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "fa97ef76-7eb7-471e-9a5b-2d1e7dc306fc",
+  "partita_id": "72e1ddc2-bda3-4b19-96b3-26f684eb16e3",
+  "calciatore_id": "0b02dc63-8b28-48ea-a1f2-ff0789bfdc92",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "d0ccb826-88c7-4708-92a7-c103e38af006",
+  "partita_id": "72e1ddc2-bda3-4b19-96b3-26f684eb16e3",
+  "calciatore_id": "639459ce-178a-4998-810b-5e6dbf201fdd",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "d84c8d4a-b1df-492d-accc-6e3e29417a59",
+  "partita_id": "72e1ddc2-bda3-4b19-96b3-26f684eb16e3",
+  "calciatore_id": "a139c780-1392-4937-b0ff-257d14a9cb02",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "6d7e5e29-ce62-4e7a-abef-6ed96c6957c3",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "6b09c362-d24a-4d01-b18d-7bdc93b096fa",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "aca7f48c-2ee5-4bef-a20d-d171f516e2b3",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "244a2693-d89e-4db6-8549-5a351112bf77",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "c05d705a-2653-48c0-82f7-d879d36a073f",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "0097006b-b888-430c-a4c1-6f74c4293b3f",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "7d37513b-4db5-475d-ad61-676658abb84d",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "10941d1b-0629-441b-a16f-ee9a7662a894",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "7c3f38ad-deff-428c-b050-e7325e5f9438",
+  "partita_id": "bc15746f-cdd5-433d-8f03-81dd2b6dfea9",
+  "calciatore_id": "61838dc9-ae93-44d7-a993-e44413b21237",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "8b803e06-c533-40cd-92d6-b4777a61ffc7",
+  "partita_id": "bc15746f-cdd5-433d-8f03-81dd2b6dfea9",
+  "calciatore_id": "c609d539-3293-4f8d-9668-8c94cb75853d",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "6ac8bd0a-4587-483b-a69c-b8ff39b65ef1",
+  "partita_id": "bc15746f-cdd5-433d-8f03-81dd2b6dfea9",
+  "calciatore_id": "110bce07-6ae2-4108-8c43-3202f33e85a5",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "ad4024e4-f919-41cf-afb7-fe053f1a0340",
+  "partita_id": "e68c2236-48d9-44c3-b449-28be9ba29240",
+  "calciatore_id": "e5bbe986-4ba8-455f-a2e0-26029b0e15b8",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 2,
+  "assist": 1
+ },
+ {
+  "id": "80dd3a1b-0fb6-4a67-81da-7e4472457f9f",
+  "partita_id": "e68c2236-48d9-44c3-b449-28be9ba29240",
+  "calciatore_id": "c5e71eda-7ed9-4035-9f5d-611d6003fb62",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 2,
+  "assist": 0
+ },
+ {
+  "id": "870b62dc-f114-4e94-905a-3de97cb9db0f",
+  "partita_id": "e68c2236-48d9-44c3-b449-28be9ba29240",
+  "calciatore_id": "c9d83165-b3b1-478f-bc21-b11862327f5f",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 2,
+  "assist": 1
+ },
+ {
+  "id": "ac8126b9-4aa7-4a51-9b10-9cd1093df94a",
+  "partita_id": "e68c2236-48d9-44c3-b449-28be9ba29240",
+  "calciatore_id": "97391f35-cddd-415c-a40b-4bdfcc31d5fd",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "b9b75fd2-30dd-48b1-87bd-a325e86eba6b",
+  "partita_id": "417d8128-76c6-499b-b3d3-33e5eae4fd40",
+  "calciatore_id": "fe21c4b6-8ea1-4d65-a01a-c03949f3c9fc",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "cce9f355-86b5-40dc-85c9-b5f9d62f0e39",
+  "partita_id": "417d8128-76c6-499b-b3d3-33e5eae4fd40",
+  "calciatore_id": "9915b741-b88b-4831-a380-4c3e039069f6",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "03452114-a423-4df4-9409-b54d7b0f6161",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "639459ce-178a-4998-810b-5e6dbf201fdd",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "5f0ba8f8-db2b-416e-bbc9-90c1a8117568",
+  "partita_id": "417d8128-76c6-499b-b3d3-33e5eae4fd40",
+  "calciatore_id": "ad2cf41b-b899-4f39-a513-b1810365dc2f",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "319e5a07-243b-4550-94de-e534f9041169",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "02b900e4-3656-4bfb-99a3-fca9be87d204",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "1541f208-7c8f-49b4-8a3f-a9bc36b64f1e",
+  "partita_id": "e68c2236-48d9-44c3-b449-28be9ba29240",
+  "calciatore_id": "b444d248-0372-4654-919c-3b375e631d5d",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "75c59e5e-a6f6-4ff7-9bef-981b74aa767f",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "7a93f7af-f5a5-4a8d-950b-46e356ed7d56",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "ba6c7c9b-dbf0-4d7b-b302-f8382df928c8",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "0c58fa0a-80fc-4a15-89e3-961da979a115",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "bffc82bf-22e8-46cb-b35d-eed59a6b60f6",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "9d56ce51-a82c-41cd-80ed-511e0c1e18ef",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "7087fdb7-2a93-4657-beab-2145f22b887f",
+  "partita_id": "e68c2236-48d9-44c3-b449-28be9ba29240",
+  "calciatore_id": "16082944-851d-442e-a218-e5f409c63c36",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "f7a5d63c-94aa-4c02-82b4-0d7c9f1b79f5",
+  "partita_id": "e68c2236-48d9-44c3-b449-28be9ba29240",
+  "calciatore_id": "db59e77d-ef19-46b6-bdee-6fbb845092cc",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "319c07c9-31d4-4dd2-9481-0de56049cef0",
+  "partita_id": "c6c24c84-54b7-415a-99f7-7d205fc831b0",
+  "calciatore_id": "c47d7089-e79a-4bab-9c8f-fc8a7cb90f3e",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "d190225a-2692-4139-aba7-508f5675d53a",
+  "partita_id": "e68c2236-48d9-44c3-b449-28be9ba29240",
+  "calciatore_id": "20c89e6c-1dc7-4f01-8f07-d97567ee48f5",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "3aeae809-225f-4846-8605-13ca470892cf",
+  "partita_id": "189c47c7-2778-4ef0-8147-8ab79abf581c",
+  "calciatore_id": "c9d83165-b3b1-478f-bc21-b11862327f5f",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 2,
+  "assist": 1
+ },
+ {
+  "id": "956b1d91-e844-46b2-8d87-0a01534a0923",
+  "partita_id": "189c47c7-2778-4ef0-8147-8ab79abf581c",
+  "calciatore_id": "97391f35-cddd-415c-a40b-4bdfcc31d5fd",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "accfca64-cf87-4aa1-aebb-7435d395d31f",
+  "partita_id": "189c47c7-2778-4ef0-8147-8ab79abf581c",
+  "calciatore_id": "c5e71eda-7ed9-4035-9f5d-611d6003fb62",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 2,
+  "assist": 0
+ },
+ {
+  "id": "59151209-37ee-44cf-b6a4-655749b4aa5c",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "e5bbe986-4ba8-455f-a2e0-26029b0e15b8",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 2,
+  "assist": 1
+ },
+ {
+  "id": "a7917c50-3fc6-4fb2-9714-01d3980643c9",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "110bce07-6ae2-4108-8c43-3202f33e85a5",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "c971152d-aa48-4db8-8812-5031485e97ff",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "527e9930-f150-4cbb-abcb-c7bef7e43ba4",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "f8abb85f-8070-4f22-be3f-3c87a18078f4",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "c609d539-3293-4f8d-9668-8c94cb75853d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "7bb1fbcc-2dbd-4e09-8ff1-7dfdd0056955",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "c4403e9f-be96-43dc-9cdb-27d3bd12cf85",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "106afad6-3ca2-4427-bd5a-4579f3c0b629",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "ab60f44b-85b0-4f52-a4c1-d778a87a773a",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "94137b81-8160-471a-8410-ebb4fa299e63",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "9915b741-b88b-4831-a380-4c3e039069f6",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "1d05a54d-741a-4e43-97c9-3f0604e63a95",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "ad2cf41b-b899-4f39-a513-b1810365dc2f",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "9b53b1b9-5a22-43d7-9587-ca9629dd8e74",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "02b900e4-3656-4bfb-99a3-fca9be87d204",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "b886b005-f595-4876-9334-d30ca9e3b93d",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "9d56ce51-a82c-41cd-80ed-511e0c1e18ef",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "9a2c611a-739f-4ae7-b9fe-f8187dee9ed3",
+  "partita_id": "189c47c7-2778-4ef0-8147-8ab79abf581c",
+  "calciatore_id": "0c58fa0a-80fc-4a15-89e3-961da979a115",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "d1601637-d46f-4323-a468-1907c63df314",
+  "partita_id": "189c47c7-2778-4ef0-8147-8ab79abf581c",
+  "calciatore_id": "639459ce-178a-4998-810b-5e6dbf201fdd",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "be3234f3-df2f-46d6-9f69-002d735307d7",
+  "partita_id": "189c47c7-2778-4ef0-8147-8ab79abf581c",
+  "calciatore_id": "16082944-851d-442e-a218-e5f409c63c36",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "e62b8029-e4ff-4403-be10-616547b3d54e",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "db59e77d-ef19-46b6-bdee-6fbb845092cc",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "87aefec9-62c0-4519-9a08-1a15195f54a0",
+  "partita_id": "1e3cb9f5-af5e-434f-b02f-8907af650ed6",
+  "calciatore_id": "10941d1b-0629-441b-a16f-ee9a7662a894",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "acaaed62-a80e-4738-9768-004b7dd1cea6",
+  "partita_id": "189c47c7-2778-4ef0-8147-8ab79abf581c",
+  "calciatore_id": "fe21c4b6-8ea1-4d65-a01a-c03949f3c9fc",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "b48736df-135b-4fd4-8ba0-46f0256ed7ad",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "110bce07-6ae2-4108-8c43-3202f33e85a5",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 2,
+  "assist": 1
+ },
+ {
+  "id": "8382b336-3a87-4947-a8d3-bb78b93d216c",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "6429fbc7-1277-4090-a97b-abfddd59831d",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 2,
+  "assist": 0
+ },
+ {
+  "id": "d1aeccda-1d30-4838-ae7d-aa8c027e45fd",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "ef34ee91-489f-4940-b27d-86adfafe6fc4",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "d617fa0f-140e-44db-94c1-d43216092b6e",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "612a8607-1750-4a57-8820-e50ea8f6d7a7",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "077bfe2b-5eb3-4063-82b2-922dc24b0a05",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "0d9b3cf8-ee81-4c6e-a9f0-3d01c258aad2",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "9af6d8c4-5d7e-400c-ac55-134b5b9c9aeb",
+  "partita_id": "8a7eee2b-ec6a-4df0-bafe-5c44309a6774",
+  "calciatore_id": "bfc9db12-05ca-4fb8-acf3-99809131063d",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "c664e0ad-e857-4bdb-839d-01f98c163063",
+  "partita_id": "8a7eee2b-ec6a-4df0-bafe-5c44309a6774",
+  "calciatore_id": "a278d83a-1835-433f-b07d-2cbdf1370da2",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "e0094e35-01d5-41ea-b7a7-75803d68765c",
+  "partita_id": "442f795e-c3fb-4172-af19-52c95c859b0e",
+  "calciatore_id": "97391f35-cddd-415c-a40b-4bdfcc31d5fd",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 2,
+  "assist": 0
+ },
+ {
+  "id": "5f643420-3cee-4969-8679-5bf49f8a2afd",
+  "partita_id": "442f795e-c3fb-4172-af19-52c95c859b0e",
+  "calciatore_id": "c9d83165-b3b1-478f-bc21-b11862327f5f",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "1edecc4d-6e93-44e2-9325-1d89f42be635",
+  "partita_id": "442f795e-c3fb-4172-af19-52c95c859b0e",
+  "calciatore_id": "8c671564-00ba-4210-afeb-af8318e7a1b2",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "b89ab93d-e970-46cb-923b-bcedb90beb34",
+  "partita_id": "442f795e-c3fb-4172-af19-52c95c859b0e",
+  "calciatore_id": "f5f1a183-ceca-4393-8464-5d59bce2ad06",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "1f534b5f-9bff-4b3c-88b5-8bcb8eb5ce07",
+  "partita_id": "442f795e-c3fb-4172-af19-52c95c859b0e",
+  "calciatore_id": "7a93f7af-f5a5-4a8d-950b-46e356ed7d56",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "6d7e1f5a-5d58-4996-8e48-8dd1caca9c17",
+  "partita_id": "d533e979-9a3c-486b-88ea-610b0d246c51",
+  "calciatore_id": "527e9930-f150-4cbb-abcb-c7bef7e43ba4",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "f57c9efe-f5a7-4d87-95c8-b61aa023d248",
+  "partita_id": "d533e979-9a3c-486b-88ea-610b0d246c51",
+  "calciatore_id": "08692d61-bdb2-4cbb-ad66-a133846e0abb",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 2,
+  "assist": 1
+ },
+ {
+  "id": "fa043c9c-1b0f-40b0-8dd2-94eb18aee9b8",
+  "partita_id": "d533e979-9a3c-486b-88ea-610b0d246c51",
+  "calciatore_id": "7ad4f1d6-523c-4071-b671-14aa5a4cfe69",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "b740c0b6-5370-4751-a5f4-a5d0aafa1a84",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "c609d539-3293-4f8d-9668-8c94cb75853d",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "ad2c447f-5628-4f1d-8295-9a8b807a5e1d",
+  "partita_id": "d533e979-9a3c-486b-88ea-610b0d246c51",
+  "calciatore_id": "41307fa3-b019-405b-a612-6481b3957361",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "cf885814-73eb-4e77-9eb0-4040545ed18e",
+  "partita_id": "8a7eee2b-ec6a-4df0-bafe-5c44309a6774",
+  "calciatore_id": "592a4cd6-5e47-4452-85fa-20de69fa7909",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "70c2db3c-dd22-4da9-9915-41111c418107",
+  "partita_id": "d533e979-9a3c-486b-88ea-610b0d246c51",
+  "calciatore_id": "17771017-7b39-4364-b69e-adf0cb263ac2",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "f60fdbe8-d60d-46ac-8d0d-81b9d016b9d4",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "b5ccfd85-9684-4cff-86d9-dffae77904ab",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "16a72a4e-78dd-41a9-a808-b47b8864fe32",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "09808934-1022-4f01-bc0f-30656bd13fc0",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "ade7b58c-c6ac-45db-be6f-e26c21098696",
+  "partita_id": "d533e979-9a3c-486b-88ea-610b0d246c51",
+  "calciatore_id": "16082944-851d-442e-a218-e5f409c63c36",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "d9974524-f310-47a7-afe8-4204b875acc8",
+  "partita_id": "8a7eee2b-ec6a-4df0-bafe-5c44309a6774",
+  "calciatore_id": "94f694f6-f645-48b4-af61-4fb42b10a552",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "ddaf1099-be9f-4d9f-bf7d-bc3d46dbc4fd",
+  "partita_id": "d533e979-9a3c-486b-88ea-610b0d246c51",
+  "calciatore_id": "c5e71eda-7ed9-4035-9f5d-611d6003fb62",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "4ba2d249-15c3-457a-8d40-74e103076a2c",
+  "partita_id": "550aa58e-47f1-4178-8087-af28acffd325",
+  "calciatore_id": "2dd22c48-6831-4e1e-b5fa-1de45940d71a",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "9f070bc3-5def-49b2-8221-45c5949f9ed8",
+  "partita_id": "d533e979-9a3c-486b-88ea-610b0d246c51",
+  "calciatore_id": "8c5c30d7-870e-4a35-a231-0d7eec2d3d8d",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "76b26afa-c038-4e27-9239-95a65e4b23cd",
+  "partita_id": "e4bb650e-ddfb-423a-a621-9b5a3b53ebaf",
+  "calciatore_id": "6429fbc7-1277-4090-a97b-abfddd59831d",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 3,
+  "assist": 0
+ },
+ {
+  "id": "de58f42d-9e5f-4a86-b1df-52cc4d6482b9",
+  "partita_id": "e4bb650e-ddfb-423a-a621-9b5a3b53ebaf",
+  "calciatore_id": "f5f1a183-ceca-4393-8464-5d59bce2ad06",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "6ac8fdd7-8077-465f-a67c-38c4a1d71623",
+  "partita_id": "e4bb650e-ddfb-423a-a621-9b5a3b53ebaf",
+  "calciatore_id": "ef34ee91-489f-4940-b27d-86adfafe6fc4",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "5c4e1596-df61-4c27-9e8e-1f50bdeb5643",
+  "partita_id": "e4bb650e-ddfb-423a-a621-9b5a3b53ebaf",
+  "calciatore_id": "a278d83a-1835-433f-b07d-2cbdf1370da2",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "6c273a51-3438-4ca3-8131-eb5ae505e2c5",
+  "partita_id": "5b193a85-69e4-4f47-8217-84eae263eb74",
+  "calciatore_id": "110bce07-6ae2-4108-8c43-3202f33e85a5",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 2,
+  "assist": 1
+ },
+ {
+  "id": "38b91933-d7da-4af5-b9a8-21e9b693bc04",
+  "partita_id": "5b193a85-69e4-4f47-8217-84eae263eb74",
+  "calciatore_id": "527e9930-f150-4cbb-abcb-c7bef7e43ba4",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 2,
+  "assist": 0
+ },
+ {
+  "id": "adfc780f-eb43-427a-a3a4-78043219ea49",
+  "partita_id": "5b193a85-69e4-4f47-8217-84eae263eb74",
+  "calciatore_id": "b35ee390-1bde-44ca-910a-e4065679807f",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "3deb8c6a-9757-4799-9d30-a3bdd45d554f",
+  "partita_id": "5b193a85-69e4-4f47-8217-84eae263eb74",
+  "calciatore_id": "8c5c30d7-870e-4a35-a231-0d7eec2d3d8d",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "617f8830-465b-4a2f-9fa3-ac9d7c13abdc",
+  "partita_id": "5b193a85-69e4-4f47-8217-84eae263eb74",
+  "calciatore_id": "c609d539-3293-4f8d-9668-8c94cb75853d",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "b2dedbbe-58b5-4887-b045-48e0ea10ef99",
+  "partita_id": "e4bb650e-ddfb-423a-a621-9b5a3b53ebaf",
+  "calciatore_id": "c5e71eda-7ed9-4035-9f5d-611d6003fb62",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "cd28894b-4cf0-4e09-a038-ab8c449bfe17",
+  "partita_id": "5b193a85-69e4-4f47-8217-84eae263eb74",
+  "calciatore_id": "1b322b70-1bfd-426d-a8b0-21fce46a1de3",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 3
+ },
+ {
+  "id": "8b18d8b1-2100-409c-8f5c-3055722f6448",
+  "partita_id": "5b193a85-69e4-4f47-8217-84eae263eb74",
+  "calciatore_id": "2dd22c48-6831-4e1e-b5fa-1de45940d71a",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "46484a3c-fbf1-4f91-9fb7-8b62a2c01699",
+  "partita_id": "e4bb650e-ddfb-423a-a621-9b5a3b53ebaf",
+  "calciatore_id": "09808934-1022-4f01-bc0f-30656bd13fc0",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "2e3db2e7-ca06-44a8-ad01-bfe70a37093c",
+  "partita_id": "e4bb650e-ddfb-423a-a621-9b5a3b53ebaf",
+  "calciatore_id": "16082944-851d-442e-a218-e5f409c63c36",
+  "squadra_id": "15d38d7b-08b1-42a0-b149-3a5bfbff5bc0",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "93eb4bcf-ee95-46a9-a66e-ddc17f82a1b4",
+  "partita_id": "5b193a85-69e4-4f47-8217-84eae263eb74",
+  "calciatore_id": "94f694f6-f645-48b4-af61-4fb42b10a552",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "acc7b903-ca87-4a8c-ad4a-10ef7b5427dd",
+  "partita_id": "b35812ed-7432-4cc8-a51a-cb7165df475d",
+  "calciatore_id": "6b09c362-d24a-4d01-b18d-7bdc93b096fa",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 2,
+  "assist": 1
+ },
+ {
+  "id": "d1c4ad3f-32c3-4293-995c-b0bfb4d6842e",
+  "partita_id": "b35812ed-7432-4cc8-a51a-cb7165df475d",
+  "calciatore_id": "9d56ce51-a82c-41cd-80ed-511e0c1e18ef",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 2,
+  "assist": 2
+ },
+ {
+  "id": "020fbe04-5c47-4357-9e0d-f5f330f67428",
+  "partita_id": "b35812ed-7432-4cc8-a51a-cb7165df475d",
+  "calciatore_id": "0d9b3cf8-ee81-4c6e-a9f0-3d01c258aad2",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "faf67530-b663-409e-b410-3891339202ed",
+  "partita_id": "b35812ed-7432-4cc8-a51a-cb7165df475d",
+  "calciatore_id": "7b706d9e-dbd6-4548-bde0-0dedd5a1572e",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "199b302e-b531-44c0-a608-ca4dce4432ac",
+  "partita_id": "b35812ed-7432-4cc8-a51a-cb7165df475d",
+  "calciatore_id": "cd5c81c5-bec8-44a0-b5a6-bcd2c9a9a570",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "67eb382a-5c04-486b-95ac-818e5cd7ed89",
+  "partita_id": "8b500ad8-1738-45c1-8a72-311fcd32d9ab",
+  "calciatore_id": "967ac20e-2111-419c-8cb9-0b4a6f3b66d4",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "feba825b-6e6d-43ab-a4a4-147b40da3ba5",
+  "partita_id": "8b500ad8-1738-45c1-8a72-311fcd32d9ab",
+  "calciatore_id": "c94fe4b6-d031-4fd3-a195-b0cc34fe9e2a",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "329a5052-a4e0-44bf-b9db-3a3146c64c87",
+  "partita_id": "8b500ad8-1738-45c1-8a72-311fcd32d9ab",
+  "calciatore_id": "c9d83165-b3b1-478f-bc21-b11862327f5f",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "f85ed8f6-92b5-4aff-9358-64e050382f12",
+  "partita_id": "8b500ad8-1738-45c1-8a72-311fcd32d9ab",
+  "calciatore_id": "9915b741-b88b-4831-a380-4c3e039069f6",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "02b8af9e-a9b4-4557-932f-f441f87a31b2",
+  "partita_id": "8b500ad8-1738-45c1-8a72-311fcd32d9ab",
+  "calciatore_id": "03ce9f9a-6f2d-4143-90c1-bc456b80b31a",
+  "squadra_id": "58ff9989-ec3e-42a0-b0ce-83913071f082",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "e2d5fc64-9757-4116-abf2-50135868ae32",
+  "partita_id": "fe7cbf8d-8aec-4491-9582-cff45d81a555",
+  "calciatore_id": "462d4759-3e57-4c2a-aada-06612d871e40",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 2,
+  "assist": 0
+ },
+ {
+  "id": "8c6cba3d-e99b-4268-afa2-1b2eeeb2b28a",
+  "partita_id": "fe7cbf8d-8aec-4491-9582-cff45d81a555",
+  "calciatore_id": "612a8607-1750-4a57-8820-e50ea8f6d7a7",
+  "squadra_id": "01b4b175-6c4b-41fd-9418-3efc38472c14",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "8bee261e-133a-457f-bd12-725f0e80900c",
+  "partita_id": "fe7cbf8d-8aec-4491-9582-cff45d81a555",
+  "calciatore_id": "10941d1b-0629-441b-a16f-ee9a7662a894",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "0175508e-4cb8-42a3-9494-69196a233692",
+  "partita_id": "111a87f8-7392-4e67-960f-e24c2970fed0",
+  "calciatore_id": "c4403e9f-be96-43dc-9cdb-27d3bd12cf85",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "82501f59-ea46-49ac-b611-0976571bf81d",
+  "partita_id": "111a87f8-7392-4e67-960f-e24c2970fed0",
+  "calciatore_id": "a278d83a-1835-433f-b07d-2cbdf1370da2",
+  "squadra_id": "9a3ca9b8-7412-4ba4-ab4b-95b8f00c6657",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "63546ea8-35bf-4dec-b5b5-260dc6a6c265",
+  "partita_id": "111a87f8-7392-4e67-960f-e24c2970fed0",
+  "calciatore_id": "caafa92d-de40-4b20-bc2e-daf715991b80",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "c4dc3673-52dd-4305-a996-7823dde05e28",
+  "partita_id": "111a87f8-7392-4e67-960f-e24c2970fed0",
+  "calciatore_id": "b060399c-b733-4b86-8c43-ba9de3d7dee4",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "568687d6-87a1-4830-abc0-5f49673d64c5",
+  "partita_id": "8b500ad8-1738-45c1-8a72-311fcd32d9ab",
+  "calciatore_id": "58b83bce-b6ee-4c2e-8f44-8cfb51d16cd8",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "c615435d-fd9e-4993-a00f-bafbc296f5e8",
+  "partita_id": "8b500ad8-1738-45c1-8a72-311fcd32d9ab",
+  "calciatore_id": "63e34a07-4947-417c-9bde-b5b9e845b32a",
+  "squadra_id": "92918826-428c-4552-9cdc-b207aef57143",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "9bb28dcb-6041-47bd-b790-7776760e11a6",
+  "partita_id": "b35812ed-7432-4cc8-a51a-cb7165df475d",
+  "calciatore_id": "9fe10c70-8098-40de-a530-e0f4b86fb6b3",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "7f47f351-510c-44c7-8920-d24dbd9b7007",
+  "partita_id": "b35812ed-7432-4cc8-a51a-cb7165df475d",
+  "calciatore_id": "f4102a0e-33e7-4b70-82a4-bfd2474978ee",
+  "squadra_id": "d249b203-6f71-4e85-8ec6-014a7e5e176c",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "4cc6d1cd-7e89-4b99-9d22-b5748d093ece",
+  "partita_id": "fe7cbf8d-8aec-4491-9582-cff45d81a555",
+  "calciatore_id": "3581cf90-d198-45c8-b1fc-48d64c508171",
+  "squadra_id": "2624985d-6a18-4228-9cdf-9a51df8838ce",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "31f8f953-9596-4a4a-98c6-e32dcc84c96e",
+  "partita_id": "111a87f8-7392-4e67-960f-e24c2970fed0",
+  "calciatore_id": "16082944-851d-442e-a218-e5f409c63c36",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "4af0de0e-3561-4282-96c8-7311cec024e9",
+  "partita_id": "111a87f8-7392-4e67-960f-e24c2970fed0",
+  "calciatore_id": "f16682bc-0cd5-4e0c-9d04-67bb57749759",
+  "squadra_id": "bf419806-6a15-4cea-b891-dd8ec9be55da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "d7b85859-096c-4e6d-9ee9-50d3201d8571",
+  "partita_id": "b35812ed-7432-4cc8-a51a-cb7165df475d",
+  "calciatore_id": "df298475-58d1-4222-8ae9-d42c68d5af43",
+  "squadra_id": "59f9a909-fb79-4762-948d-0e5d7443cc39",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "d5bd4aba-9559-4696-9c72-88bb786b1a77",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "967ac20e-2111-419c-8cb9-0b4a6f3b66d4",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 2,
+  "assist": 0
+ },
+ {
+  "id": "947b9a32-36fd-44a9-9c60-51df958f2c22",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "9d56ce51-a82c-41cd-80ed-511e0c1e18ef",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 2,
+  "assist": 2
+ },
+ {
+  "id": "42ae892d-0979-4a1c-a9be-97727696ac71",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "9915b741-b88b-4831-a380-4c3e039069f6",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "02566d72-1026-4304-9c8c-3ccf386d08e9",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "cdc92380-ff06-4251-bc5d-daaf19a581f6",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "a6f20697-e835-4c04-80a1-bc0957ad6b03",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "c94fe4b6-d031-4fd3-a195-b0cc34fe9e2a",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "cc5e0813-42f4-4ed5-9f07-fbd2c3efe968",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "0d9b3cf8-ee81-4c6e-a9f0-3d01c258aad2",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "f504328f-59d8-4573-85e8-442dccfd936c",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "7b706d9e-dbd6-4548-bde0-0dedd5a1572e",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "388ff453-b04f-42e3-98bb-df232c540b92",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "4cc6e07a-e73e-4f91-8def-d49acc6b4a45",
+  "squadra_id": "d4c40d3c-64c4-426b-bdde-33b377d65f37",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "2a2e6467-1e98-49e9-9519-5bba2d2905da",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "c4403e9f-be96-43dc-9cdb-27d3bd12cf85",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 1
+ },
+ {
+  "id": "71ccceaf-a3b3-4104-b881-a5fa06a8695e",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "10941d1b-0629-441b-a16f-ee9a7662a894",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "260e3897-7ea9-4e2e-a6fa-489c99fae0cf",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "527e9930-f150-4cbb-abcb-c7bef7e43ba4",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 1,
+  "assist": 0
+ },
+ {
+  "id": "95a0ac25-fc82-4a2f-8e4e-083a265626c7",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "de30b198-60a4-4b47-9d42-84edf27af753",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 2
+ },
+ {
+  "id": "44f5d928-b199-4fcd-89c6-492b154b0813",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "5beba7cb-cde9-4e1f-9fbc-3e132307f2d2",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "7eb4becb-a325-4425-8f3b-c57833697c84",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "9fe10c70-8098-40de-a530-e0f4b86fb6b3",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "af1ca596-f6c6-442f-98b9-58899d209dac",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "58b83bce-b6ee-4c2e-8f44-8cfb51d16cd8",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "bf1071f6-ec59-4daf-bb89-ed6c268e93d8",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "3581cf90-d198-45c8-b1fc-48d64c508171",
+  "squadra_id": "588d1b6c-d1e6-4408-b6b8-96b9923f97da",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "ca466630-0f3b-496d-8944-c8218a19d4ff",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "a278d83a-1835-433f-b07d-2cbdf1370da2",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "1d0f4057-2f06-46d6-9f03-dfb2237f103f",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "f16682bc-0cd5-4e0c-9d04-67bb57749759",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "74488e07-5f64-4815-8e37-26bf25b6e3a8",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "1b322b70-1bfd-426d-a8b0-21fce46a1de3",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "65687683-5977-4558-b4fa-fb8492b73fcf",
+  "partita_id": "be118559-2e56-4aaf-a7fb-37c529306db5",
+  "calciatore_id": "7086a7b3-6405-4590-96b1-45568064cb0b",
+  "squadra_id": "f31212c5-3073-40a0-b856-5cae5cdf13cd",
+  "gol": 0,
+  "assist": 1
+ },
+ {
+  "id": "604ebcff-ae50-47fd-95e0-36c7290f41c8",
+  "partita_id": "1350f439-4e3e-4c45-a978-59dc85f99797",
+  "calciatore_id": "df298475-58d1-4222-8ae9-d42c68d5af43",
+  "squadra_id": "40087150-0ed5-4a8b-b708-a35aa731c7cf",
+  "gol": 0,
+  "assist": 1
  }
 ]
